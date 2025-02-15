@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/raw
+data/products
+data/processed
+data/workspaces
+data/**/assets
+public/assets/
+.env

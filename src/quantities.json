@@ -1,0 +1,5974 @@
+[
+  {
+    "name": "Society Tea",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "SOCITEA-Q250-RALL"
+  },
+  {
+    "name": "Society Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "SOCITEA-Q500-RALL"
+  },
+  {
+    "name": "Society Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "SOCITEA-Q1-RALL"
+  },
+  {
+    "name": "Wagh Bakri Premium Leaf Tea Pouch",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "WAGHBAKR-Q250-RALL"
+  },
+  {
+    "name": "Wagh Bakri Premium Leaf Tea Pouch",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "WAGHBAKR-Q500-RALL"
+  },
+  {
+    "name": "Wagh Bakri Premium Leaf Tea Pouch",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "WAGHBAKR-Q1-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Natural Care Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "BROOBOND-Q1-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Natural Care Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BROOBOND-Q500-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Natural Care Tea",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "BROOBOND-Q250-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "BROOBOND-Q1-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BROOBOND-Q500-RALL"
+  },
+  {
+    "name": "Brooke Bond Red Label Tea",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "BROOBOND-Q250-RALL"
+  },
+  {
+    "name": "Tata Tea Agni",
+    "quantity": {
+      "originalValue": "1.5 kg",
+      "unitValue": 1.5,
+      "unit": "kg"
+    },
+    "sku": "TATATEAA-Q1-RALL"
+  },
+  {
+    "name": "Tata Tea Agni",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "TATATEAA-Q1-RALL"
+  },
+  {
+    "name": "Tata Tea Agni",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "TATATEAA-Q500-RALL"
+  },
+  {
+    "name": "Tata Tea Agni",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "TATATEAA-Q250-RALL"
+  },
+  {
+    "name": "Taj Mahal Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "TAJMAHAT-Q500-RALL"
+  },
+  {
+    "name": "Girnar Royal Cup Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GIRNROYA-Q1-RALL"
+  },
+  {
+    "name": "Girnar Royal Cup Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "GIRNROYA-Q500-RALL"
+  },
+  {
+    "name": "Girnar Royal Cup Tea",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "GIRNROYA-Q250-RALL"
+  },
+  {
+    "name": "Tata Tea Premium",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "TATATEAP-Q250-RALL"
+  },
+  {
+    "name": "Tata Tea Premium",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "TATATEAP-Q500-RALL"
+  },
+  {
+    "name": "Tata Tea Premium",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "TATATEAP-Q1-RALL"
+  },
+  {
+    "name": "Tata Tea Gold",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "TATATEAG-Q250-RALL"
+  },
+  {
+    "name": "Tata Tea Gold",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "TATATEAG-Q500-RALL"
+  },
+  {
+    "name": "Tata Tea Gold",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "TATATEAG-Q1-RALL"
+  },
+  {
+    "name": "Society Masala Flavour Tea Pouch",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "SOCIMASA-Q100-RALL"
+  },
+  {
+    "name": "Society Masala Flavour Tea Pouch",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "SOCIMASA-Q250-RALL"
+  },
+  {
+    "name": "Society Masala Flavour Tea Pouch",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "SOCIMASA-Q500-RALL"
+  },
+  {
+    "name": "Society Masala Flavour Tea Pouch",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "SOCIMASA-Q1-RALL"
+  },
+  {
+    "name": "Brooke Bond Taaza Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "BROOBOND-Q1-RALL"
+  },
+  {
+    "name": "Wagh Bakri Navchetan Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "WAGHBAKR-Q1-RALL"
+  },
+  {
+    "name": "Girnar Royal Assam CTC Leaf Tea Jar",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GIRNROYA-Q1-RALL"
+  },
+  {
+    "name": "Wagh Bakri Spiced Tea",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "WAGHBAKR-Q500-RALL"
+  },
+  {
+    "name": "Tata Tea Elaichi Chai",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "TATATEAE-Q1-RALL"
+  },
+  {
+    "name": "Maharashtra Special Tea Jar",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "MAHASPEC-Q500-RALL"
+  },
+  {
+    "name": "Society Elaichi Adrak Flavour Tea Pouch",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "SOCIELAI-Q250-RALL"
+  },
+  {
+    "name": "Girnar Masala Instant Premix Chai",
+    "quantity": {
+      "originalValue": "140 g",
+      "unitValue": 140,
+      "unit": "g"
+    },
+    "sku": "GIRNMASA-Q140-RALL"
+  },
+  {
+    "name": "Tata Tea Teaveda",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "TATATEAT-Q250-RALL"
+  },
+  {
+    "name": "Girnar Jumbo Gulabi CTC Leaf Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GIRNJUMB-Q1-RALL"
+  },
+  {
+    "name": "Wagh Bakri Masala Tea",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "WAGHBAKR-Q200-RALL"
+  },
+  {
+    "name": "Girnar Cardamom Instant Premix Chai",
+    "quantity": {
+      "originalValue": "140 g",
+      "unitValue": 140,
+      "unit": "g"
+    },
+    "sku": "GIRNCARD-Q140-RALL"
+  },
+  {
+    "name": "DMart Premia Tea Masala",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "DMARPREM-Q50-RALL"
+  },
+  {
+    "name": "Society Chahat Leaf Tea Pouch",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "SOCICHAH-Q1-RALL"
+  },
+  {
+    "name": "Josh Kadak Tea",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "JOSHKADA-Q1-RALL"
+  },
+  {
+    "name": "Tetley Green Tea Lemon & Honey",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TETLGREE-100-RALL"
+  },
+  {
+    "name": "Girnar Detox Desi Kahwa Green Tea",
+    "quantity": {
+      "originalValue": "50 Bags",
+      "unitValue": 50,
+      "unit": "bag"
+    },
+    "sku": "GIRNDETO-50-RALL"
+  },
+  {
+    "name": "Girnar Detox Desi Kahwa Green Tea",
+    "quantity": {
+      "originalValue": "10 Bags",
+      "unitValue": 10,
+      "unit": "bag"
+    },
+    "sku": "GIRNDETO-10-RALL"
+  },
+  {
+    "name": "Lipton Green Tea Honey Lemon",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-100-RALL"
+  },
+  {
+    "name": "Lipton Green Tea Honey Lemon",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Tea Country Honey & Lemon Green Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TEACOUNH-25-RALL"
+  },
+  {
+    "name": "Tetley Green Tea Ginger Mint & Lemon",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TETLGREE-100-RALL"
+  },
+  {
+    "name": "Lipton Green Tea - Clear & Light",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Tea Country Original Green Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TEACOUNO-25-RALL"
+  },
+  {
+    "name": "Lipton Green Tea - Lemon Zest",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Organic India Tulsi Green Tea - Lemon Ginger",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "ORGAINDI-25-RALL"
+  },
+  {
+    "name": "Tea Country Tulsi Green Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TEACOUNT-25-RALL"
+  },
+  {
+    "name": "Twinings Origins Darjeeling Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TWINORIG-25-RALL"
+  },
+  {
+    "name": "Tea Culture Of The World Moroccan Mint Exotic Tea",
+    "quantity": {
+      "originalValue": "16 U",
+      "unitValue": 16,
+      "unit": "u"
+    },
+    "sku": "TEACULTO-16-RALL"
+  },
+  {
+    "name": "Tea Culture Of The World Tulsi Ritual Exotic Tea",
+    "quantity": {
+      "originalValue": "16 U",
+      "unitValue": 16,
+      "unit": "u"
+    },
+    "sku": "TEACULTO-16-RALL"
+  },
+  {
+    "name": "Tea Culture Of The World Soothing Chamomile Exotic Tea",
+    "quantity": {
+      "originalValue": "16 U",
+      "unitValue": 16,
+      "unit": "u"
+    },
+    "sku": "TEACULTO-16-RALL"
+  },
+  {
+    "name": "Tetley Green Tea Lemon & Honey",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TETLGREE-100-RALL"
+  },
+  {
+    "name": "Lipton Green Tea Honey Lemon",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-100-RALL"
+  },
+  {
+    "name": "Lipton Green Tea Honey Lemon",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Tea Country Honey & Lemon Green Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TEACOUNH-25-RALL"
+  },
+  {
+    "name": "Tetley Green Tea Ginger Mint & Lemon",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TETLGREE-100-RALL"
+  },
+  {
+    "name": "Lipton Green Tea - Clear & Light",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Tea Country Original Green Tea",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TEACOUNO-25-RALL"
+  },
+  {
+    "name": "Lipton Pure & Light Green Tea",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "LIPTPURE-Q250-RALL"
+  },
+  {
+    "name": "Tetley Classic Immune Green Tea",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TETLCLAS-100-RALL"
+  },
+  {
+    "name": "Tetley Long Leaf Green Tea Powder",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "TETLLONG-Q250-RALL"
+  },
+  {
+    "name": "Lipton Green Tea - Lemon Zest",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "LIPTGREE-25-RALL"
+  },
+  {
+    "name": "Tea Country Green Tea Lemon & Honey",
+    "quantity": {
+      "originalValue": "100 U",
+      "unitValue": 100,
+      "unit": "u"
+    },
+    "sku": "TEACOUNG-100-RALL"
+  },
+  {
+    "name": "Organic India Tulsi Green Tea - Lemon Ginger",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "ORGAINDI-25-RALL"
+  },
+  {
+    "name": "Organic Tulsi Ginger Turmeric",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "ORGATULS-25-RALL"
+  },
+  {
+    "name": "Twinings Pure Green Tea",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TWINPURE-100-RALL"
+  },
+  {
+    "name": "Twinings Green Tea & Lemon",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TWINGREE-25-RALL"
+  },
+  {
+    "name": "Twinings Green Tea & Lemon",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TWINGREE-100-RALL"
+  },
+  {
+    "name": "Twinings Green Tea Lemon & Honey",
+    "quantity": {
+      "originalValue": "25 Bags",
+      "unitValue": 25,
+      "unit": "bag"
+    },
+    "sku": "TWINGREE-25-RALL"
+  },
+  {
+    "name": "Twinings Green Tea Lemon & Honey",
+    "quantity": {
+      "originalValue": "100 Bags",
+      "unitValue": 100,
+      "unit": "bag"
+    },
+    "sku": "TWINGREE-100-RALL"
+  },
+  {
+    "name": "TGL Co. Mogo Mogo Green Tea",
+    "quantity": {
+      "originalValue": "16 Bags",
+      "unitValue": 16,
+      "unit": "bag"
+    },
+    "sku": "TGLCO.MO-16-RALL"
+  },
+  {
+    "name": "TGL Co. Kashmiri Kahwa Green Tea",
+    "quantity": {
+      "originalValue": "16 Bags",
+      "unitValue": 16,
+      "unit": "bag"
+    },
+    "sku": "TGLCO.KA-16-RALL"
+  },
+  {
+    "name": "Bru Instant Coffee Pouch",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "BRUINSTC-Q50-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee",
+    "quantity": {
+      "originalValue": "45 gm",
+      "unitValue": 45,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q45-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q200-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q500-RALL"
+  },
+  {
+    "name": "Le Café 100% Pure Instant Coffee",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "LECAFÉ10-Q50-RALL"
+  },
+  {
+    "name": "Le Café Instant Coffee",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "LECAFÉIN-Q200-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee Jar",
+    "quantity": {
+      "originalValue": "90 gm",
+      "unitValue": 90,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q90-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee Jar",
+    "quantity": {
+      "originalValue": "45 gm",
+      "unitValue": 45,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q45-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee Jar",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q180-RALL"
+  },
+  {
+    "name": "Nescafé Classic Coffee Jar",
+    "quantity": {
+      "originalValue": "24 gm",
+      "unitValue": 24,
+      "unit": "g"
+    },
+    "sku": "NESCCLAS-Q24-RALL"
+  },
+  {
+    "name": "Continental Xtra Coffee Jar",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CONTXTRA-Q200-RALL"
+  },
+  {
+    "name": "Nescafé Sunrise Coffee",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "NESCSUNR-Q50-RALL"
+  },
+  {
+    "name": "Nescafé Sunrise Coffee",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "NESCSUNR-Q200-RALL"
+  },
+  {
+    "name": "House Instant Coffee",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "HOUSINST-Q50-RALL"
+  },
+  {
+    "name": "Continental Malgudi Filter Coffee 80 Degree",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CONTMALG-Q500-RALL"
+  },
+  {
+    "name": "Nescafe Gold Blend Coffee Jar",
+    "quantity": {
+      "originalValue": "90 gm",
+      "unitValue": 90,
+      "unit": "g"
+    },
+    "sku": "NESCGOLD-Q90-RALL"
+  },
+  {
+    "name": "Nescafe Gold Blend Coffee Jar",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "NESCGOLD-Q50-RALL"
+  },
+  {
+    "name": "Le Café Instant Coffee Jar",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "LECAFÉIN-Q100-RALL"
+  },
+  {
+    "name": "Bru Coffee",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "BRUCOFF-Q100-RALL"
+  },
+  {
+    "name": "Le Cafe Coffee Jar",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "LECAFECO-Q50-RALL"
+  },
+  {
+    "name": "Davidoff Coffee Espresso Intense",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "DAVICOFF-Q100-RALL"
+  },
+  {
+    "name": "Davidoff Coffee Rich Aroma",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "DAVICOFF-Q100-RALL"
+  },
+  {
+    "name": "Continental Xtra Instant South Blend Coffee",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "CONTXTRA-Q50-RALL"
+  },
+  {
+    "name": "Davidoff Coffee Fine Aroma",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "DAVICOFF-Q100-RALL"
+  },
+  {
+    "name": "Colombian Brew Instant Coffee Original",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "COLOCOFF-Q100-RALL"
+  },
+  {
+    "name": "Bru Instant Pure Coffee",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "BRUINSTP-Q50-RALL"
+  },
+  {
+    "name": "Colombian Brew Cappuccino Coffee Premix",
+    "quantity": {
+      "originalValue": "10 U",
+      "unitValue": 10,
+      "unit": "u"
+    },
+    "sku": "COLOBREW-10-RALL"
+  },
+  {
+    "name": "Colombian Brew Hazelnut Coffee Premix",
+    "quantity": {
+      "originalValue": "10 U",
+      "unitValue": 10,
+      "unit": "u"
+    },
+    "sku": "COLOBREW-10-RALL"
+  },
+  {
+    "name": "Colombian Brew Instant Coffee Nutty Hazelnut",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "COLOCOFF-Q100-RALL"
+  },
+  {
+    "name": "Colombian Brew Double Chocolate Mocha Coffee Premix",
+    "quantity": {
+      "originalValue": "10 U",
+      "unitValue": 10,
+      "unit": "u"
+    },
+    "sku": "COLOBREW-10-RALL"
+  },
+  {
+    "name": "Colombian Brew Vanilla Caramel Coffee Premix",
+    "quantity": {
+      "originalValue": "10 U",
+      "unitValue": 10,
+      "unit": "u"
+    },
+    "sku": "COLOBREW-10-RALL"
+  },
+  {
+    "name": "Davidoff Coffee Crema Intense",
+    "quantity": {
+      "originalValue": "90 gm",
+      "unitValue": 90,
+      "unit": "g"
+    },
+    "sku": "DAVICOFF-Q90-RALL"
+  },
+  {
+    "name": "Nescafe Chilled Latte Coffee & Milk Beverage",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "NESCCHIL-V180-RALL"
+  },
+  {
+    "name": "Colombian Brew Instant Coffee Double Chocolate Mocha",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "COLOINST-Q100-RALL"
+  },
+  {
+    "name": "Colombian Brew Instant Coffee Wild Vanilla",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "COLOBREW-Q100-RALL"
+  },
+  {
+    "name": "Cothas Coffee Speciality Blend",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "COTHCOFF-Q200-RALL"
+  },
+  {
+    "name": "Nescafe Cappuccino Flavour Can",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "NESCCAPP-V180-RALL"
+  },
+  {
+    "name": "Continental Speciale Coffee Pouch",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "CONTSPEC-Q50-RALL"
+  },
+  {
+    "name": "TGL Co. Euphoria Instant Coffee Powder",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "TGLCO.EU-Q100-RALL"
+  },
+  {
+    "name": "Colombian Brew Instant Coffee Creamy Caramel",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "COLOCOFF-Q100-RALL"
+  },
+  {
+    "name": "Sleepy Owl Premium Instant Coffee Hazelnut",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "SLEEOWLP-Q100-RALL"
+  },
+  {
+    "name": "Sleepy Owl Premium Instant Coffee Original",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "SLEEOWLP-Q100-RALL"
+  },
+  {
+    "name": "Sleepy Owl Coffee Dip Bags Assorted",
+    "quantity": {
+      "originalValue": "10 x 10 g",
+      "packSize": 10,
+      "unitValue": 10,
+      "unit": "g"
+    },
+    "sku": "SLEEOWLC-Q10-RALL"
+  },
+  {
+    "name": "Sleepy Owl Coffee Dip Bags Original",
+    "quantity": {
+      "originalValue": "10 x 10 g",
+      "packSize": 10,
+      "unitValue": 10,
+      "unit": "g"
+    },
+    "sku": "SLEEOWLC-Q10-RALL"
+  },
+  {
+    "name": "Sleepy Owl Cold Coffee Can Hazelnut",
+    "quantity": {
+      "originalValue": "230 ml",
+      "unitValue": 230,
+      "unit": "ml"
+    },
+    "sku": "SLEEOWLC-V230-RALL"
+  },
+  {
+    "name": "Sleepy Owl Cold Coffee Can Classic",
+    "quantity": {
+      "originalValue": "230 ml",
+      "unitValue": 230,
+      "unit": "ml"
+    },
+    "sku": "SLEEOWLC-V230-RALL"
+  },
+  {
+    "name": "Sleepy Owl Coffee Intense Java Xpresso",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "SLEEOWLC-Q100-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Pouch",
+    "quantity": {
+      "originalValue": "75 gm",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q75-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Pouch",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q500-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Pouch",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q750-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Pouch",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "CADBBOUR-Q1-RALL"
+  },
+  {
+    "name": "Pediasure Nutritional Powder - Chocolate Flavour",
+    "quantity": {
+      "originalValue": "375 g",
+      "unitValue": 375,
+      "unit": "g"
+    },
+    "sku": "PEDINUTR-Q375-RALL"
+  },
+  {
+    "name": "Pediasure Nutritional Powder - Chocolate Flavour",
+    "quantity": {
+      "originalValue": "950 g",
+      "unitValue": 950,
+      "unit": "g"
+    },
+    "sku": "PEDINUTR-Q950-RALL"
+  },
+  {
+    "name": "Horlicks Refill - Classic Malt",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "HORLREFI-Q750-RALL"
+  },
+  {
+    "name": "Horlicks Refill - Chocolate",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "HORLREFI-Q750-RALL"
+  },
+  {
+    "name": "Protinex Chocolate Flavour Tin",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PROTCHOC-Q400-RALL"
+  },
+  {
+    "name": "Protinex Original",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PROTORIG-Q400-RALL"
+  },
+  {
+    "name": "Women's Horlicks Drink - Chocolate",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "WOMEHORL-Q400-RALL"
+  },
+  {
+    "name": "Women's Horlicks Drink Jar - Caramel",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "WOMEHORL-Q400-RALL"
+  },
+  {
+    "name": "Pediasure Vanilla Flavour",
+    "quantity": {
+      "originalValue": "950 g",
+      "unitValue": 950,
+      "unit": "g"
+    },
+    "sku": "PEDIVANI-Q950-RALL"
+  },
+  {
+    "name": "Complan Royal Chocolate Flavour",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "COMPROYA-Q1-RALL"
+  },
+  {
+    "name": "Complan Royal Chocolate Flavour",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "COMPROYA-Q500-RALL"
+  },
+  {
+    "name": "Horlicks Classic Malt Jar",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "HORLCLAS-Q500-RALL"
+  },
+  {
+    "name": "Horlicks Chocolate Delight Jar",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "HORLCHOC-Q500-RALL"
+  },
+  {
+    "name": "Amul Pro Whey Protein Malt Chocolate Drink",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULPROW-Q500-RALL"
+  },
+  {
+    "name": "Pediasure Nutritional Powder - Vanilla Flavour",
+    "quantity": {
+      "originalValue": "375 g",
+      "unitValue": 375,
+      "unit": "g"
+    },
+    "sku": "PEDINUTR-Q375-RALL"
+  },
+  {
+    "name": "Ensure Nutrition Powder - Vanilla Flavour",
+    "quantity": {
+      "originalValue": "375 g",
+      "unitValue": 375,
+      "unit": "g"
+    },
+    "sku": "ENSUNUTR-Q375-RALL"
+  },
+  {
+    "name": "Protinex Vanilla Flavour",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PROTVANI-Q400-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita 5 Star Magic Drink Pouch",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q750-RALL"
+  },
+  {
+    "name": "Boost Jar",
+    "quantity": {
+      "originalValue": "450 gm",
+      "unitValue": 450,
+      "unit": "g"
+    },
+    "sku": "BOOSJAR-Q450-RALL"
+  },
+  {
+    "name": "Ensure Diabetes Care Nutrition Powder - Vanilla Flavour",
+    "quantity": {
+      "originalValue": "375 g",
+      "unitValue": 375,
+      "unit": "g"
+    },
+    "sku": "ENSUDIAB-Q375-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Jar",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q200-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Jar",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q500-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Chocolate Drink Jar",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "CADBBOUR-Q1-RALL"
+  },
+  {
+    "name": "Ensure Nutrition Powder - Chocolate Flavour",
+    "quantity": {
+      "originalValue": "375 g",
+      "unitValue": 375,
+      "unit": "g"
+    },
+    "sku": "ENSUNUTR-Q375-RALL"
+  },
+  {
+    "name": "Horlicks Chocolate Delight Flavour Jar",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "HORLCHOC-Q200-RALL"
+  },
+  {
+    "name": "Ensure Chocolate Flavour",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "ENSUCHOC-Q200-RALL"
+  },
+  {
+    "name": "Complan Kesar Badam Health Drink",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "COMPKESA-Q500-RALL"
+  },
+  {
+    "name": "Protinex Original",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "PROTORIG-Q750-RALL"
+  },
+  {
+    "name": "Protinex Chocolate Flavour",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "PROTCHOC-Q750-RALL"
+  },
+  {
+    "name": "Hell Energy Drink - Classic",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "HELLENER-V250-RALL"
+  },
+  {
+    "name": "Hell Energy Drink - Watermelon",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "HELLENER-V250-RALL"
+  },
+  {
+    "name": "Hell Energy Drink - Apple",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "HELLENER-V250-RALL"
+  },
+  {
+    "name": "Thums Up Bottle",
+    "quantity": {
+      "originalValue": "8x250 ml",
+      "packSize": 8,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "THUMUPBO-V250-RALL"
+  },
+  {
+    "name": "Sprite",
+    "quantity": {
+      "originalValue": "8x250 ml",
+      "packSize": 8,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "SPRI-V250-RALL"
+  },
+  {
+    "name": "Thums Up",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "THUMUP-V750-RALL"
+  },
+  {
+    "name": "Thums Up",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "THUMUP-V2-RALL"
+  },
+  {
+    "name": "Sprite",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "SPRI-V2-RALL"
+  },
+  {
+    "name": "Sprite",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "SPRI-V750-RALL"
+  },
+  {
+    "name": "Coca-Cola Bottle",
+    "quantity": {
+      "originalValue": "8x250 ml",
+      "packSize": 8,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "COCABOTT-V250-RALL"
+  },
+  {
+    "name": "Mirinda Orange",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "MIRIORAN-V750-RALL"
+  },
+  {
+    "name": "Mirinda Orange",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "MIRIORAN-V2-RALL"
+  },
+  {
+    "name": "Fanta Orange Flavour",
+    "quantity": {
+      "originalValue": "8x250 ml",
+      "packSize": 8,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "FANTORAN-V250-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "350 ml",
+      "unitValue": 350,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V350-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "4x250 ml",
+      "packSize": 4,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V250-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "6x250 ml",
+      "packSize": 6,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V250-RALL"
+  },
+  {
+    "name": "Fanta Orange Flavour",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "FANTORAN-V2-RALL"
+  },
+  {
+    "name": "Coca-Cola",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "COCA-V2-RALL"
+  },
+  {
+    "name": "Diet Coke Tin",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "DIETCOKE-V300-RALL"
+  },
+  {
+    "name": "Monster Energy Drink Tin",
+    "quantity": {
+      "originalValue": "350 ml",
+      "unitValue": 350,
+      "unit": "ml"
+    },
+    "sku": "MONSENER-V350-RALL"
+  },
+  {
+    "name": "Bisleri Extra Strong Soda",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "BISLEXTR-V750-RALL"
+  },
+  {
+    "name": "Pepsi",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "PEPS-V2-RALL"
+  },
+  {
+    "name": "Pepsi",
+    "quantity": {
+      "originalValue": "750  ml",
+      "unitValue": 750,
+      "unit": ""
+    },
+    "sku": "PEPS-750-RALL"
+  },
+  {
+    "name": "Limca",
+    "quantity": {
+      "originalValue": "2 L",
+      "unitValue": 2,
+      "unit": "l"
+    },
+    "sku": "LIMC-V2-RALL"
+  },
+  {
+    "name": "7 Up",
+    "quantity": {
+      "originalValue": "2.25 L",
+      "unitValue": 2.25,
+      "unit": "l"
+    },
+    "sku": "7UP-V2-RALL"
+  },
+  {
+    "name": "Frooti Mango Drink Bottle",
+    "quantity": {
+      "originalValue": "2 L",
+      "unitValue": 2,
+      "unit": "l"
+    },
+    "sku": "FROOMANG-V2-RALL"
+  },
+  {
+    "name": "Coke Zero Sugar",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "COKEZERO-V300-RALL"
+  },
+  {
+    "name": "Duke's Club Soda",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "DUKECLUB-V750-RALL"
+  },
+  {
+    "name": "Xotik Jeeru Jeera Masala Drink",
+    "quantity": {
+      "originalValue": "2 L",
+      "unitValue": 2,
+      "unit": "l"
+    },
+    "sku": "XOTIJEER-V2-RALL"
+  },
+  {
+    "name": "Sting Energy Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "STINENER-V250-RALL"
+  },
+  {
+    "name": "Schweppes Original Ginger Ale",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "SCHWORIG-V300-RALL"
+  },
+  {
+    "name": "Schweppes Indian Tonic Water Tin",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "SCHWINDI-V300-RALL"
+  },
+  {
+    "name": "Coca-Cola Tin",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "COCATIN-V300-RALL"
+  },
+  {
+    "name": "O'cean Fruit Drink - Peach & Passion Fruit Flavour",
+    "quantity": {
+      "originalValue": "500 ml",
+      "unitValue": 500,
+      "unit": "ml"
+    },
+    "sku": "O'CEFRUI-V500-RALL"
+  },
+  {
+    "name": "Bisleri Limonata - With Lime Juice",
+    "quantity": {
+      "originalValue": "600 ml",
+      "unitValue": 600,
+      "unit": "ml"
+    },
+    "sku": "BISLLIMO-V600-RALL"
+  },
+  {
+    "name": "Cipla Prolyte ORS - Orange Flavour",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CIPLPROL-V200-RALL"
+  },
+  {
+    "name": "Cipla Prolyte ORS - Apple Flavour",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CIPLPROL-V200-RALL"
+  },
+  {
+    "name": "Cravova Classic Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVCLAS-V300-RALL"
+  },
+  {
+    "name": "Coca Cola Zero Sugar Bottle",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "COCACOLA-V750-RALL"
+  },
+  {
+    "name": "Cipla Prolyte ORS Mixed Fruit Flavour Drink",
+    "quantity": {
+      "originalValue": " 200 ml",
+      "unitValue": null,
+      "unit": "200"
+    },
+    "sku": "CIPLPROL-UNDEFINED-RALL"
+  },
+  {
+    "name": "Cravova Peach Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVPEAC-V300-RALL"
+  },
+  {
+    "name": "Cravova Watermelon Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVWATE-V300-RALL"
+  },
+  {
+    "name": "Cravova Green Apple Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVGREE-V300-RALL"
+  },
+  {
+    "name": "Yakult Light",
+    "quantity": {
+      "originalValue": "5x65 ml",
+      "packSize": 5,
+      "unitValue": 65,
+      "unit": "ml"
+    },
+    "sku": "YAKULIGH-V65-RALL"
+  },
+  {
+    "name": "Cipla Prolyte ORS Nimbu Paani",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CIPLPROL-V200-RALL"
+  },
+  {
+    "name": "Appy Fizz Apple Flavoured Sparkling Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "APPYFIZZ-V250-RALL"
+  },
+  {
+    "name": "Appy Fizz Apple Flavoured Sparkling Drink",
+    "quantity": {
+      "originalValue": "600 ml",
+      "unitValue": 600,
+      "unit": "ml"
+    },
+    "sku": "APPYFIZZ-V600-RALL"
+  },
+  {
+    "name": "Appy Fizz Apple Flavoured Sparkling Drink",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "APPYFIZZ-V1-RALL"
+  },
+  {
+    "name": "Rio Boom Energy Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "RIOBOOME-V250-RALL"
+  },
+  {
+    "name": "Budweiser Beats Energy Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "BUDWBEAT-V250-RALL"
+  },
+  {
+    "name": "Riseup Kombucha Original Healthy Probiotic Drink",
+    "quantity": {
+      "originalValue": "275 ml",
+      "unitValue": 275,
+      "unit": "ml"
+    },
+    "sku": "RISEKOMB-V275-RALL"
+  },
+  {
+    "name": "3 Sisters Cranberry Non-Alcoholic Beer",
+    "quantity": {
+      "originalValue": "330 ml",
+      "unitValue": 330,
+      "unit": "ml"
+    },
+    "sku": "3SISTCRA-V330-RALL"
+  },
+  {
+    "name": "3 Sisters Peach Non-Alcoholic Beer",
+    "quantity": {
+      "originalValue": "330 ml",
+      "unitValue": 330,
+      "unit": "ml"
+    },
+    "sku": "3SISTPEA-V330-RALL"
+  },
+  {
+    "name": "3 Sisters Kiwi Mint Non-Alcoholic Beer",
+    "quantity": {
+      "originalValue": "330 ml",
+      "unitValue": 330,
+      "unit": "ml"
+    },
+    "sku": "3SISTKIW-V330-RALL"
+  },
+  {
+    "name": "Real Fruit Power Mixed Fruit",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "REALFRUI-V180-RALL"
+  },
+  {
+    "name": "Real Fruit Power Mixed Fruit",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "B Natural Mixed Fruit Beverage",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BNATUMIX-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Orange",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "REALFRUI-V180-RALL"
+  },
+  {
+    "name": "Real Fruit Power Orange",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Cranberry",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Guava",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "REALFRUI-V180-RALL"
+  },
+  {
+    "name": "Real Fruit Power Guava",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Mogu Mogu Lyche Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "MOGUMOGU-V300-RALL"
+  },
+  {
+    "name": "Mogu Mogu Lyche Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MOGUMOGU-V1-RALL"
+  },
+  {
+    "name": "B Natural Guava Fruit Beverage",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BNATUGUA-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Litchi",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "B Natural Litchi Fruit Beverage",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BNATULIT-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Pomegranate",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Sooper Dooper Ice Pops",
+    "quantity": {
+      "originalValue": "10 U",
+      "unitValue": 10,
+      "unit": "u"
+    },
+    "sku": "SOOPDOOP-10-RALL"
+  },
+  {
+    "name": "Raw Pressery Coconut Water",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "RAWPRESC-V200-RALL"
+  },
+  {
+    "name": "Real Fruit Power Apple",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Mogu Mogu Strawberry Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MOGUMOGU-V1-RALL"
+  },
+  {
+    "name": "Mogu Mogu Strawberry Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "MOGUMOGU-V300-RALL"
+  },
+  {
+    "name": "Kapiva Get Slim Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "KAPIGETS-V1-RALL"
+  },
+  {
+    "name": "Paper Boat Aamras Drink",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "PAPEBOAT-V200-RALL"
+  },
+  {
+    "name": "Tropicana Orange Delight",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "TROPORAN-V1-RALL"
+  },
+  {
+    "name": "Kapiva Dia Free Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "KAPIDIAF-V1-RALL"
+  },
+  {
+    "name": "Baidyanath Amla Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BAIDAMLA-V1-RALL"
+  },
+  {
+    "name": "Raw Pressery Orange Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "RAWPRESO-V1-RALL"
+  },
+  {
+    "name": "Mogu Mogu Orange Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "MOGUMOGU-V300-RALL"
+  },
+  {
+    "name": "Tropicana Mixed Fruit Delight",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "TROPMIXE-V1-RALL"
+  },
+  {
+    "name": "Real Fruit Power Masala Mixed Fruit",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Tropicana Guava Delight",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "TROPGUAV-V1-RALL"
+  },
+  {
+    "name": "Paper Boat Chilli Guava Drink",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "PAPEBOAT-V200-RALL"
+  },
+  {
+    "name": "Real Fruit Power Masala Guava",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V1-RALL"
+  },
+  {
+    "name": "Mogu Mogu Grape Juice Drink with Nata De Coco",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MOGUMOGU-V1-RALL"
+  },
+  {
+    "name": "Tropicana Litchi Delight",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "TROPLITC-V1-RALL"
+  },
+  {
+    "name": "Baidyanath Karela Jamun Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BAIDKARE-V1-RALL"
+  },
+  {
+    "name": "Paper Boat Alphonso Aam Drink",
+    "quantity": {
+      "originalValue": "150 ml",
+      "unitValue": 150,
+      "unit": "ml"
+    },
+    "sku": "PAPEBOAT-V150-RALL"
+  },
+  {
+    "name": "Raw Pressery Sugarcane",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "RAWPRESS-V1-RALL"
+  },
+  {
+    "name": "Paper Boat Orange Juice",
+    "quantity": {
+      "originalValue": "150 ml",
+      "unitValue": 150,
+      "unit": "ml"
+    },
+    "sku": "PAPEBOAT-V150-RALL"
+  },
+  {
+    "name": "Paper Boat Jaljeera Drink",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "PAPEBOAT-V200-RALL"
+  },
+  {
+    "name": "Raw Pressery Pomegranate Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "RAWPRESP-V1-RALL"
+  },
+  {
+    "name": "Alo Frut Mango Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "ALOFRUTM-V1-RALL"
+  },
+  {
+    "name": "Alo Frut Litchi Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "ALOFRUTL-V1-RALL"
+  },
+  {
+    "name": "Alo Frut Guava Juice",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "ALOFRUTG-V1-RALL"
+  },
+  {
+    "name": "Alo Frut Litchi Juice",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "ALOFRUTL-V300-RALL"
+  },
+  {
+    "name": "Alo Frut Mixed Fruit",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "ALOFRUTM-V300-RALL"
+  },
+  {
+    "name": "Alo Frut Kiwi Juice",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "ALOFRUTK-V300-RALL"
+  },
+  {
+    "name": "Maaza Mango Drink",
+    "quantity": {
+      "originalValue": "600 ml",
+      "unitValue": 600,
+      "unit": "ml"
+    },
+    "sku": "MAAZMANG-V600-RALL"
+  },
+  {
+    "name": "Maaza Mango Drink",
+    "quantity": {
+      "originalValue": "1.2 L",
+      "unitValue": 1.2,
+      "unit": "l"
+    },
+    "sku": "MAAZMANG-V1-RALL"
+  },
+  {
+    "name": "Slice Mango Drink",
+    "quantity": {
+      "originalValue": "1.75 L",
+      "unitValue": 1.75,
+      "unit": "l"
+    },
+    "sku": "SLICMANG-V1-RALL"
+  },
+  {
+    "name": "O'cean Pink Fruit Drink - Guava Flavour",
+    "quantity": {
+      "originalValue": "500 ml",
+      "unitValue": 500,
+      "unit": "ml"
+    },
+    "sku": "O'CEPINK-V500-RALL"
+  },
+  {
+    "name": "Rio Wild Berry Bubbly Fruit Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "RIOWILDB-V250-RALL"
+  },
+  {
+    "name": "Rio Pink Guava Bubbly Fruit Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "RIOPINKG-V250-RALL"
+  },
+  {
+    "name": "Real Fruit Power Mango Fruit Drink",
+    "quantity": {
+      "originalValue": "2 L",
+      "unitValue": 2,
+      "unit": "l"
+    },
+    "sku": "REALFRUI-V2-RALL"
+  },
+  {
+    "name": "Real Fruit Power Mixed Fruit Beverage (1.1L)",
+    "quantity": {
+      "originalValue": "10 Piece",
+      "unitValue": 10,
+      "unit": "piece"
+    },
+    "sku": "REALFRUI-P10-RALL"
+  },
+  {
+    "name": "Maaza Mango Drink",
+    "quantity": {
+      "originalValue": "10x135 ml",
+      "packSize": 10,
+      "unitValue": 135,
+      "unit": "ml"
+    },
+    "sku": "MAAZMANG-V135-RALL"
+  },
+  {
+    "name": "Mango Merry Mango Fruit Drink",
+    "quantity": {
+      "originalValue": "1.75 L",
+      "unitValue": 1.75,
+      "unit": "l"
+    },
+    "sku": "MANGMERR-V1-RALL"
+  },
+  {
+    "name": "Monster Energy Drink Tin",
+    "quantity": {
+      "originalValue": "350 ml",
+      "unitValue": 350,
+      "unit": "ml"
+    },
+    "sku": "MONSENER-V350-RALL"
+  },
+  {
+    "name": "Rio Boom Energy Drink",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "RIOBOOME-V250-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "350 ml",
+      "unitValue": 350,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V350-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "4x250 ml",
+      "packSize": 4,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V250-RALL"
+  },
+  {
+    "name": "Red Bull Energy Drink Pack",
+    "quantity": {
+      "originalValue": "6x250 ml",
+      "packSize": 6,
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "REDBULLE-V250-RALL"
+  },
+  {
+    "name": "Hamdard Rooh Afza Sharbat",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "HAMDROOH-V750-RALL"
+  },
+  {
+    "name": "Hershey's Chocolate Syrup",
+    "quantity": {
+      "originalValue": "623 gm",
+      "unitValue": 623,
+      "unit": "g"
+    },
+    "sku": "HERSCHOC-Q623-RALL"
+  },
+  {
+    "name": "Hershey's Chocolate Syrup",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "HERSCHOC-Q200-RALL"
+  },
+  {
+    "name": "Mapro Coolz Rose Sharbat",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MAPRCOOL-V1-RALL"
+  },
+  {
+    "name": "Kokan Gem Kokam Syrup",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "KOKAGEMK-V1-RALL"
+  },
+  {
+    "name": "Haldiram's Shahi Thandai Syrup",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "HALDSHAH-V750-RALL"
+  },
+  {
+    "name": "Mala's Rose Syrup",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MALAROSE-V1-RALL"
+  },
+  {
+    "name": "Mala's Strawberry Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MALASTRA-V1-RALL"
+  },
+  {
+    "name": "Mapro Restore Lemon Barley Water",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MAPRREST-V1-RALL"
+  },
+  {
+    "name": "Cravova Classic Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVCLAS-V300-RALL"
+  },
+  {
+    "name": "Malas Pineapple Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MALAPINE-V1-RALL"
+  },
+  {
+    "name": "Mapro Coolz Khus Sharbat",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MAPRCOOL-V1-RALL"
+  },
+  {
+    "name": "Cravova Peach Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVPEAC-V300-RALL"
+  },
+  {
+    "name": "Cravova Watermelon Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVWATE-V300-RALL"
+  },
+  {
+    "name": "Cravova Green Apple Mojito",
+    "quantity": {
+      "originalValue": "300 ml",
+      "unitValue": 300,
+      "unit": "ml"
+    },
+    "sku": "CRAVGREE-V300-RALL"
+  },
+  {
+    "name": "Mala's Orange Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MALAORAN-V1-RALL"
+  },
+  {
+    "name": "Mapro Litchi Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MAPRLITC-V1-RALL"
+  },
+  {
+    "name": "Malas Guava Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MALAGUAV-V1-RALL"
+  },
+  {
+    "name": "Mapro Orange Crush",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MAPRORAN-V1-RALL"
+  },
+  {
+    "name": "Dabur Hommade Lemoneez",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "DABUHOMM-V250-RALL"
+  },
+  {
+    "name": "Tang Orange Instant Drink Mix",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "TANGORAN-Q500-RALL"
+  },
+  {
+    "name": "Tang Orange Instant Drink Mix",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "TANGORAN-Q750-RALL"
+  },
+  {
+    "name": "Cadbury Hot Chocolate Drink Powder Mix",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CADBHOTC-Q200-RALL"
+  },
+  {
+    "name": "Tang Mango Instant Drink Mix",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "TANGMANG-Q750-RALL"
+  },
+  {
+    "name": "Glucon-D Instant Energy Orange",
+    "quantity": {
+      "originalValue": "450 gm",
+      "unitValue": 450,
+      "unit": "g"
+    },
+    "sku": "GLUCINST-Q450-RALL"
+  },
+  {
+    "name": "Glucon-D Instant Energy Orange",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GLUCINST-Q1-RALL"
+  },
+  {
+    "name": "Hershey's Natural Unsweetened Cocoa Powder",
+    "quantity": {
+      "originalValue": "225 gm",
+      "unitValue": 225,
+      "unit": "g"
+    },
+    "sku": "HERSNATU-Q225-RALL"
+  },
+  {
+    "name": "Glucon-D Instant Energy Nimbu Pani",
+    "quantity": {
+      "originalValue": "450 gm",
+      "unitValue": 450,
+      "unit": "g"
+    },
+    "sku": "GLUCINST-Q450-RALL"
+  },
+  {
+    "name": "Glucon-D Instant Energy Nimbu Pani",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GLUCINST-Q1-RALL"
+  },
+  {
+    "name": "Rasna Insta Orange Powder",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "RASNINST-Q750-RALL"
+  },
+  {
+    "name": "Rasna Insta Mango Powder",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "RASNINST-Q750-RALL"
+  },
+  {
+    "name": "Jalani Jaljira",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "JALAJALJ-Q150-RALL"
+  },
+  {
+    "name": "Christopher Cocoa Original Drinking Cocoa",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CHRICOCO-Q200-RALL"
+  },
+  {
+    "name": "Blue Bird Cocoa Powder",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "BLUEBIRD-Q50-RALL"
+  },
+  {
+    "name": "Christopher Dark Cocoa Powder For Baking & Hot & Cold Drinks",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CHRIDARK-Q200-RALL"
+  },
+  {
+    "name": "Fast & Up Reload Instant Electrolytes Tablet - Lime & Lemon",
+    "quantity": {
+      "originalValue": "20 U",
+      "unitValue": 20,
+      "unit": "u"
+    },
+    "sku": "FAST&UPR-20-RALL"
+  },
+  {
+    "name": "Fast & Up Reload Instant Electrolytes Tablet - Orange",
+    "quantity": {
+      "originalValue": "20 U",
+      "unitValue": 20,
+      "unit": "u"
+    },
+    "sku": "FAST&UPR-20-RALL"
+  },
+  {
+    "name": "Bisleri Packaged Drinking Water",
+    "quantity": {
+      "originalValue": "250 ml x 48U",
+      "packSize": 48,
+      "packUnit": "U",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "BISLPACK-V250-RALL-PAC48"
+  },
+  {
+    "name": "Bisleri Packaged Drinking Water",
+    "quantity": {
+      "originalValue": "5 L",
+      "unitValue": 5,
+      "unit": "l"
+    },
+    "sku": "BISLPACK-V5-RALL"
+  },
+  {
+    "name": "Bisleri Water",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "BISLWATE-V1-RALL"
+  },
+  {
+    "name": "Duke's Club Soda",
+    "quantity": {
+      "originalValue": "750 ml",
+      "unitValue": 750,
+      "unit": "ml"
+    },
+    "sku": "DUKECLUB-V750-RALL"
+  },
+  {
+    "name": "Amul Taaza Toned Milk",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "AMULTAAZ-V200-RALL"
+  },
+  {
+    "name": "Amul Taaza Toned Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULTAAZ-V1-RALL"
+  },
+  {
+    "name": "Amul Taaza Toned Milk",
+    "quantity": {
+      "originalValue": "1 L x 12 U",
+      "packSize": 12,
+      "packUnit": "U",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULTAAZ-V1-RALL-PAC12"
+  },
+  {
+    "name": "Milky Mist UHT Sterilized Toned Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MILKMIST-V1-RALL"
+  },
+  {
+    "name": "Amul Gold Homogenised Standardised Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULGOLD-V1-RALL"
+  },
+  {
+    "name": "Nandini Good Life Toned Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "NANDGOOD-V1-RALL"
+  },
+  {
+    "name": "Amul Slim-n-Trim Skimmed Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULSLIM-V1-RALL"
+  },
+  {
+    "name": "Nestle A+ Toned Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "NESTA+TO-V1-RALL"
+  },
+  {
+    "name": "Mother Dairy Toned Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "MOTHDAIR-V1-RALL"
+  },
+  {
+    "name": "Raw Pressery Almond Milk Plain (Unsweetened)",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "RAWPRESA-V1-RALL"
+  },
+  {
+    "name": "Amul Kool Kesar Milk",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "AMULKOOL-V180-RALL"
+  },
+  {
+    "name": "Amul Kool Badam Milk",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "AMULKOOL-V180-RALL"
+  },
+  {
+    "name": "Sofit Soya Drink Vanilla",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "SOFISOYA-V1-RALL"
+  },
+  {
+    "name": "Amul Kool Cafe Milk",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "AMULKOOL-V200-RALL"
+  },
+  {
+    "name": "Amul Kool Elaichi Milk",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "AMULKOOL-V180-RALL"
+  },
+  {
+    "name": "Sofit Soya Drink Naturally Sugar Free",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "SOFISOYA-V1-RALL"
+  },
+  {
+    "name": "Amul Kool Rose Milk",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "AMULKOOL-V180-RALL"
+  },
+  {
+    "name": "Nestlé Slim Milk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "NESTSLIM-V1-RALL"
+  },
+  {
+    "name": "Amul Lactose Free Milk",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "AMULLACT-V200-RALL"
+  },
+  {
+    "name": "Govind Funzz Pista Flavoured Milk Bottle",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "GOVI-V200-RALL"
+  },
+  {
+    "name": "Govind Funzz Mango Flavored Milk Bottle",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "GOVIFUNZ-V200-RALL"
+  },
+  {
+    "name": "Chitale Flavoured Milk Butterscotch",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CHITFLAV-V200-RALL"
+  },
+  {
+    "name": "Govind Funzz Butterscotch Flavoured Milk Bottle",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "GOVIFUNZ-V200-RALL"
+  },
+  {
+    "name": "Govind Funzz Chocolate Flavored Milk Bottle",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "GOVIFUNZ-V200-RALL"
+  },
+  {
+    "name": "Chitale Flavoured Milk - Coffee",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CHITFLAV-V200-RALL"
+  },
+  {
+    "name": "Amul Basundi Kesar Elaichi",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULBASU-V1-RALL"
+  },
+  {
+    "name": "Amul Basundi Kesar Elaichi",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "AMULBASU-V250-RALL"
+  },
+  {
+    "name": "Chitale Flavoured Milk Rose",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CHITFLAV-V200-RALL"
+  },
+  {
+    "name": "Amul Kadhai Doodh",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "AMULKADH-V200-RALL"
+  },
+  {
+    "name": "Amul Butter",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q100-RALL"
+  },
+  {
+    "name": "Amul Butter",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q200-RALL"
+  },
+  {
+    "name": "Amul Butter",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q500-RALL"
+  },
+  {
+    "name": "Mother Dairy Pasteurized Butter",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "MOTHDAIR-Q500-RALL"
+  },
+  {
+    "name": "Amul Garlic & Herbs Buttery Spread",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULGARL-Q100-RALL"
+  },
+  {
+    "name": "Amul Butter School Pack",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q100-RALL"
+  },
+  {
+    "name": "Amul Butter Unsalted",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q100-RALL"
+  },
+  {
+    "name": "Amul Butter Unsalted",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULBUTT-Q500-RALL"
+  },
+  {
+    "name": "Nutralite Fat Spread Tub",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "NUTRFATS-Q500-RALL"
+  },
+  {
+    "name": "Chitale Pasteurised Table Butter",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CHITPAST-Q500-RALL"
+  },
+  {
+    "name": "Chitale Pasteurised Table Butter",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "CHITPAST-Q100-RALL"
+  },
+  {
+    "name": "Delicious Fat Spread",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "DELIFATS-Q500-RALL"
+  },
+  {
+    "name": "Nutralite Fat Spread UKE",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "NUTRFATS-Q500-RALL"
+  },
+  {
+    "name": "Nutralite Doodh Shakti Butter Spread",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "NUTRDOOD-Q500-RALL"
+  },
+  {
+    "name": "Amul Lite Milk Fat Bread Spread",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULLITE-Q500-RALL"
+  },
+  {
+    "name": "Milky Mist Table Butter Chiplet",
+    "quantity": {
+      "originalValue": "10x10 g",
+      "packSize": 10,
+      "unitValue": 10,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q10-RALL"
+  },
+  {
+    "name": "President Premium Butter Unsalted",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "PRESPREM-Q500-RALL"
+  },
+  {
+    "name": "President Premium Butter Salted",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "PRESPREM-Q500-RALL"
+  },
+  {
+    "name": "Amul White Butter Unsalted",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULWHIT-Q100-RALL"
+  },
+  {
+    "name": "Amul Processed Cheese Cubes",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULPROC-Q200-RALL"
+  },
+  {
+    "name": "Amul Processed Cheese Cubes",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULPROC-Q500-RALL"
+  },
+  {
+    "name": "Amul Processed Cheese Cubes",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULPROC-Q1-RALL"
+  },
+  {
+    "name": "Amul Cheese Block",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULCHEE-Q1-RALL"
+  },
+  {
+    "name": "Amul Cheese Block",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q500-RALL"
+  },
+  {
+    "name": "Amul Cheese Block",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q200-RALL"
+  },
+  {
+    "name": "Amul Cheese Slices",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q100-RALL"
+  },
+  {
+    "name": "Amul Cheese Slices",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q200-RALL"
+  },
+  {
+    "name": "Amul Cheese Slices",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q400-RALL"
+  },
+  {
+    "name": "Amul Cheese Slices",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q750-RALL"
+  },
+  {
+    "name": "Gowardhan Cheese Slice - 28 Slices",
+    "quantity": {
+      "originalValue": "476 gm",
+      "unitValue": 476,
+      "unit": "g"
+    },
+    "sku": "GOWACHEE-Q476-RALL"
+  },
+  {
+    "name": "Milky Mist Cheese Slices",
+    "quantity": {
+      "originalValue": "476 gm",
+      "unitValue": 476,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q476-RALL"
+  },
+  {
+    "name": "Milky Mist Cheese Slices",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q200-RALL"
+  },
+  {
+    "name": "Amul Cheese Spread Plain",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULCHEE-Q200-RALL"
+  },
+  {
+    "name": "Gowardhan Processed Cheese Slices",
+    "quantity": {
+      "originalValue": "750 gm",
+      "unitValue": 750,
+      "unit": "g"
+    },
+    "sku": "GOWAPROC-Q750-RALL"
+  },
+  {
+    "name": "Britannia Cheese Slices",
+    "quantity": {
+      "originalValue": "400 g",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q400-RALL"
+  },
+  {
+    "name": "Britannia Cheese Slices",
+    "quantity": {
+      "originalValue": "663 gm",
+      "unitValue": 663,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q663-RALL"
+  },
+  {
+    "name": "Britannia Cheese Slices",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q180-RALL"
+  },
+  {
+    "name": "Milky Mist Cheese Cubes",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q200-RALL"
+  },
+  {
+    "name": "Britannia Cheese Cubes",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q200-RALL"
+  },
+  {
+    "name": "Britannia Cheese Cubes",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q600-RALL"
+  },
+  {
+    "name": "Amul Mozzarella Diced Pizza Cheese (Frozen)",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULMOZZ-Q1-RALL"
+  },
+  {
+    "name": "Gowardhan Go Cheese Slices - Plain",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAGOCH-Q200-RALL"
+  },
+  {
+    "name": "Britannia Cheese Block",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q400-RALL"
+  },
+  {
+    "name": "Amul Diced Mozzarella & Cheddar Cheese Blend (Frozen)",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULDICE-Q200-RALL"
+  },
+  {
+    "name": "Britannia Cheezza Pizza Cheese",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q200-RALL"
+  },
+  {
+    "name": "Britannia Cheezza Pizza Cheese",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "BRITCHEE-Q400-RALL"
+  },
+  {
+    "name": "D'lecta Shredded Mozzarella Cheese",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "D'LESHRE-Q500-RALL"
+  },
+  {
+    "name": "Milky Mist Cheese Block",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q200-RALL"
+  },
+  {
+    "name": "Amul Diced Blend Cheese",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULDICE-Q1-RALL"
+  },
+  {
+    "name": "Gowardhan Processed Cheese",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "GOWAPROC-Q400-RALL"
+  },
+  {
+    "name": "Gowardhan Processed Cheese",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "GOWAPROC-Q1-RALL"
+  },
+  {
+    "name": "D'lecta Cheese Cubes",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "D'LECHEE-Q200-RALL"
+  },
+  {
+    "name": "Mother Dairy Cheese Slices",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MOTHDAIR-Q200-RALL"
+  },
+  {
+    "name": "Mother Dairy Cheese Cubes",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "MOTHDAIR-Q180-RALL"
+  },
+  {
+    "name": "D'lecta Cheese Slices",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "D'LECHEE-Q200-RALL"
+  },
+  {
+    "name": "D'lecta Cheese Slices",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "D'LECHEE-Q400-RALL"
+  },
+  {
+    "name": "Gowardhan Go Pizza Cheese",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAGOPI-Q200-RALL"
+  },
+  {
+    "name": "Britannia Diced Pizza Cheese Blend",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BRITDICE-Q500-RALL"
+  },
+  {
+    "name": "Britannia Diced Pizza Cheese Blend",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "BRITDICE-Q200-RALL"
+  },
+  {
+    "name": "D'lecta Natural Feta Salad Cheese",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "D'LENATU-Q100-RALL"
+  },
+  {
+    "name": "D'lecta Cream Cheese",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "D'LECREA-Q400-RALL"
+  },
+  {
+    "name": "D'lecta Cream Cheese",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "D'LECREA-Q150-RALL"
+  },
+  {
+    "name": "D'lecta Frozen Shredded Mozzarella Cheese",
+    "quantity": {
+      "originalValue": "140 g",
+      "unitValue": 140,
+      "unit": "g"
+    },
+    "sku": "D'LEFROZ-Q140-RALL"
+  },
+  {
+    "name": "D'lecta Cheese Spread",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "D'LECHEE-Q180-RALL"
+  },
+  {
+    "name": "Amul Easy To Grate Processed Cheese",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULEASY-Q1-RALL"
+  },
+  {
+    "name": "D'lecta Processed Cheese Block",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "D'LEPROC-Q200-RALL"
+  },
+  {
+    "name": "D'lecta Natural Cheddar Cheese",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "D'LENATU-Q200-RALL"
+  },
+  {
+    "name": "D'lecta Natural Cheddar Cheese Slices",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "D'LENATU-Q200-RALL"
+  },
+  {
+    "name": "Go Cheese Pizza Blend Diced",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOCHEEPI-Q200-RALL"
+  },
+  {
+    "name": "Gowardhan Processed Cheese Angles",
+    "quantity": {
+      "originalValue": "160 g",
+      "unitValue": 160,
+      "unit": "g"
+    },
+    "sku": "GOWAPROC-Q160-RALL"
+  },
+  {
+    "name": "Amul Mozzarella & Cheddar Pizza Cheese",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULMOZZ-Q200-RALL"
+  },
+  {
+    "name": "Amul Mozzarella Pizza Cheese (Frozen)",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULMOZZ-Q200-RALL"
+  },
+  {
+    "name": "Gowardhan Go Cheese Processed Square",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAGOCH-Q200-RALL"
+  },
+  {
+    "name": "Amul Edam Traditional Dutch Cheese",
+    "quantity": {
+      "originalValue": "250 g",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "AMULEDAM-Q250-RALL"
+  },
+  {
+    "name": "Amul Feta Traditional Greek Cheese",
+    "quantity": {
+      "originalValue": "250 g",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "AMULFETA-Q250-RALL"
+  },
+  {
+    "name": "Milky Mist Paneer",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q200-RALL"
+  },
+  {
+    "name": "Milky Mist Paneer",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "MILKMIST-Q500-RALL"
+  },
+  {
+    "name": "Nestlé Everyday Dairy Whitener",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "NESTEVER-Q200-RALL"
+  },
+  {
+    "name": "Nestlé Everyday Dairy Whitener",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "NESTEVER-Q400-RALL"
+  },
+  {
+    "name": "Nestlé Everyday Dairy Whitener",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "NESTEVER-Q1-RALL"
+  },
+  {
+    "name": "Gowardhan Paneer Classic Block",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAPANE-Q200-RALL"
+  },
+  {
+    "name": "Gowardhan Paneer Classic Block",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "GOWAPANE-Q500-RALL"
+  },
+  {
+    "name": "Nestlé Milkmaid",
+    "quantity": {
+      "originalValue": "380 gm",
+      "unitValue": 380,
+      "unit": "g"
+    },
+    "sku": "NESTMILK-Q380-RALL"
+  },
+  {
+    "name": "Amul Fresh Cream",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "AMULFRES-V250-RALL"
+  },
+  {
+    "name": "Amul Fresh Cream",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULFRES-V1-RALL"
+  },
+  {
+    "name": "Amulya Dairy Whitener",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULDAIR-Q500-RALL"
+  },
+  {
+    "name": "Amulya Dairy Whitener",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULDAIR-Q1-RALL"
+  },
+  {
+    "name": "Amul Mithai Mate Sweetened Condensed Milk",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "AMULMITH-Q400-RALL"
+  },
+  {
+    "name": "Amul Fresh Paneer",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULFRES-Q200-RALL"
+  },
+  {
+    "name": "Amul Masti Spiced Buttermilk",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "AMULMAST-V180-RALL"
+  },
+  {
+    "name": "Amul Masti Spiced Buttermilk",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULMAST-V1-RALL"
+  },
+  {
+    "name": "Yakult Probiotic",
+    "quantity": {
+      "originalValue": "5x65 ml",
+      "packSize": 5,
+      "unitValue": 65,
+      "unit": "ml"
+    },
+    "sku": "YAKUPROB-V65-RALL"
+  },
+  {
+    "name": "Chitale Fresh Paneer",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CHITFRES-Q200-RALL"
+  },
+  {
+    "name": "Amul Malai Paneer (Frozen)",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULMALA-Q200-RALL"
+  },
+  {
+    "name": "Amul Malai Paneer (Frozen)",
+    "quantity": {
+      "originalValue": "1 Kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULMALA-Q1-RALL"
+  },
+  {
+    "name": "Amul Frozen Rasmalai",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULFROZ-Q500-RALL"
+  },
+  {
+    "name": "Prabhat Malai Paneer",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "PRABMALA-Q200-RALL"
+  },
+  {
+    "name": "Epigamia Milkshake Vanilla",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "EPIGMILK-V180-RALL"
+  },
+  {
+    "name": "Hershey's Chocolate Milk Shake",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "HERSCHOC-V180-RALL"
+  },
+  {
+    "name": "Epigamia Milkshake Chocolate",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "EPIGMILK-V180-RALL"
+  },
+  {
+    "name": "D'lecta Dairy Cream",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "D'LEDAIR-V200-RALL"
+  },
+  {
+    "name": "Amul Rose Lassi",
+    "quantity": {
+      "originalValue": "250 ml",
+      "unitValue": 250,
+      "unit": "ml"
+    },
+    "sku": "AMULROSE-V250-RALL"
+  },
+  {
+    "name": "Yakult Light",
+    "quantity": {
+      "originalValue": "5x65 ml",
+      "packSize": 5,
+      "unitValue": 65,
+      "unit": "ml"
+    },
+    "sku": "YAKULIGH-V65-RALL"
+  },
+  {
+    "name": "Epigamia Milkshake Strawberry",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "EPIGMILK-V180-RALL"
+  },
+  {
+    "name": "Hershey's Milkshake Strawberry Flavour",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "HERSMILK-V180-RALL"
+  },
+  {
+    "name": "D'lecta D'licia Whip Topping",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "D'LED'LI-Q1-RALL"
+  },
+  {
+    "name": "Nestle Milkmaid Mini",
+    "quantity": {
+      "originalValue": "210 gm",
+      "unitValue": 210,
+      "unit": "g"
+    },
+    "sku": "NESTMILK-Q210-RALL"
+  },
+  {
+    "name": "Epigamia Artisanal Mishti Doi",
+    "quantity": {
+      "originalValue": "80 gm",
+      "unitValue": 80,
+      "unit": "g"
+    },
+    "sku": "EPIGARTI-Q80-RALL"
+  },
+  {
+    "name": "Gowardhan Go Cheese Processed Square",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAGOCH-Q200-RALL"
+  },
+  {
+    "name": "Govind Flavoured Milk  - Kesar",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "GOVIFLAV-V200-RALL"
+  },
+  {
+    "name": "Amul Lassi",
+    "quantity": {
+      "originalValue": "1 L",
+      "unitValue": 1,
+      "unit": "l"
+    },
+    "sku": "AMULLASS-V1-RALL"
+  },
+  {
+    "name": "Chitale Keshar Flavoured Milk",
+    "quantity": {
+      "originalValue": "200 ml",
+      "unitValue": 200,
+      "unit": "ml"
+    },
+    "sku": "CHITKESH-V200-RALL"
+  },
+  {
+    "name": "Milky Mist Curd",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "MILKMIST-Q1-RALL"
+  },
+  {
+    "name": "Chitale Dahi",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "CHITDAHI-Q400-RALL"
+  },
+  {
+    "name": "Amul Masti Dahi",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "AMULMAST-Q400-RALL"
+  },
+  {
+    "name": "Prabhat Dairy Cup Dahi",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PRABDAIR-Q400-RALL"
+  },
+  {
+    "name": "Amul Premium Dahi",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "AMULPREM-Q400-RALL"
+  },
+  {
+    "name": "Epigamia Artisanal Mishti Doi",
+    "quantity": {
+      "originalValue": "80 gm",
+      "unitValue": 80,
+      "unit": "g"
+    },
+    "sku": "EPIGARTI-Q80-RALL"
+  },
+  {
+    "name": "Epigamia Low Fat Greek Yogurt Natural",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "EPIGLOWF-Q85-RALL"
+  },
+  {
+    "name": "Epigamia Low Fat Greek Yogurt Blueberry",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "EPIGLOWF-Q85-RALL"
+  },
+  {
+    "name": "Epigamia Low Fat Greek Yogurt Strawberry",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "EPIGLOWF-Q85-RALL"
+  },
+  {
+    "name": "Epigamia Low Fat Greek Yogurt Alphonso Mango",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "EPIGLOWF-Q85-RALL"
+  },
+  {
+    "name": "Epigamia Low Fat Greek Yogurt Wild Raspberry",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "EPIGLOWF-Q85-RALL"
+  },
+  {
+    "name": "Epigamia Greek Yogurt Zero Added Sugar Strawberry",
+    "quantity": {
+      "originalValue": "110 g",
+      "unitValue": 110,
+      "unit": "g"
+    },
+    "sku": "EPIGGREE-Q110-RALL"
+  },
+  {
+    "name": "Epigamia Greek Yogurt Smoothie - Strawberry",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "EPIGGREE-V180-RALL"
+  },
+  {
+    "name": "Epigamia Greek Yogurt Zero Sugar Mixed Berry",
+    "quantity": {
+      "originalValue": "110 g",
+      "unitValue": 110,
+      "unit": "g"
+    },
+    "sku": "EPIGGREE-Q110-RALL"
+  },
+  {
+    "name": "Epigamia Greek Yogurt Smoothie - Blueberry",
+    "quantity": {
+      "originalValue": "180 ml",
+      "unitValue": 180,
+      "unit": "ml"
+    },
+    "sku": "EPIGGREE-V180-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Shrikhand Amba",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q250-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Shrikhand Amba",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q500-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Badam Pista",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q200-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Badam Pista",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q500-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Elaichi",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q200-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Elaichi",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q500-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Mango",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q500-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Shrikhand Badam Pista",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q500-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Shrikhand Badam Pista",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q250-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Keshar Shrikhand",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q250-RALL"
+  },
+  {
+    "name": "Chitale Full Cream Keshar Shrikhand",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "CHITFULL-Q500-RALL"
+  },
+  {
+    "name": "Amul Shrikhand Kesar",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULSHRI-Q500-RALL"
+  },
+  {
+    "name": "Amul Amrakhand",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "AMULAMRA-Q500-RALL"
+  },
+  {
+    "name": "Gowardhan Paneer Classic Block",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "GOWAPANE-Q200-RALL"
+  },
+  {
+    "name": "Gowardhan Paneer Classic Block",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "GOWAPANE-Q500-RALL"
+  },
+  {
+    "name": "Chitale Fresh Paneer",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "CHITFRES-Q200-RALL"
+  },
+  {
+    "name": "Amul Malai Paneer (Frozen)",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "AMULMALA-Q200-RALL"
+  },
+  {
+    "name": "Amul Malai Paneer (Frozen)",
+    "quantity": {
+      "originalValue": "1 Kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "AMULMALA-Q1-RALL"
+  },
+  {
+    "name": "Chetran's Tofu",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "CHETTOFU-Q250-RALL"
+  },
+  {
+    "name": "Britannia Good Day Cashew Cookies",
+    "quantity": {
+      "originalValue": "52.5 gm",
+      "unitValue": 52.5,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q52-RALL"
+  },
+  {
+    "name": "Britannia Good Day Cashew Cookies",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q200-RALL"
+  },
+  {
+    "name": "Britannia Good Day Cashew Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q600-RALL"
+  },
+  {
+    "name": "Parle Hide & Seek Chocolate Chip Cookies",
+    "quantity": {
+      "originalValue": "350 gm",
+      "unitValue": 350,
+      "unit": "g"
+    },
+    "sku": "PARLHIDE-Q350-RALL"
+  },
+  {
+    "name": "Parle Hide & Seek Chocolate Chip Cookies",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "PARLHIDE-Q100-RALL"
+  },
+  {
+    "name": "Karachi Fruit Biscuits",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "KARAFRUI-Q400-RALL"
+  },
+  {
+    "name": "Malkist Cheese Flavoured Crunchy Layered Crackers",
+    "quantity": {
+      "originalValue": "138 g",
+      "unitValue": 138,
+      "unit": "g"
+    },
+    "sku": "MALKCHEE-Q138-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Yumfills Cake",
+    "quantity": {
+      "originalValue": "242 gm",
+      "unitValue": 242,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q242-RALL"
+  },
+  {
+    "name": "Parle Nutricrunch Digestive Cookies",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "PARLNUTR-Q1-RALL"
+  },
+  {
+    "name": "Sunfeast Mom's Magic Cashew & Almond",
+    "quantity": {
+      "originalValue": "584 gm",
+      "unitValue": 584,
+      "unit": "g"
+    },
+    "sku": "SUNFMOM'-Q584-RALL"
+  },
+  {
+    "name": "Britannia Nice Time Coconut Biscuits",
+    "quantity": {
+      "originalValue": "143 g",
+      "unitValue": 143,
+      "unit": "g"
+    },
+    "sku": "BRITNICE-Q143-RALL"
+  },
+  {
+    "name": "Britannia Little Hearts Classic",
+    "quantity": {
+      "originalValue": "75 gm",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "BRITLITT-Q75-RALL"
+  },
+  {
+    "name": "Unibic Cashew Badam Cookies",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "UNIBCASH-Q500-RALL"
+  },
+  {
+    "name": "Britannia Good Day Chocochip Cookies",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q400-RALL"
+  },
+  {
+    "name": "Parle 20-20 Gold Cashew Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "PARL20-2-Q600-RALL"
+  },
+  {
+    "name": "Unibic Choco Chip Cookies",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "UNIBCHOC-Q100-RALL"
+  },
+  {
+    "name": "Unibic Choco Chip Cookies",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "UNIBCHOC-Q500-RALL"
+  },
+  {
+    "name": "Unibic Fruit & Nut Cookies",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "UNIBFRUI-Q500-RALL"
+  },
+  {
+    "name": "Britannia NutriChoice Sugar Free Cracker Biscuits",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "BRITNUTR-Q300-RALL"
+  },
+  {
+    "name": "Unibic Danish Coconut Cookies",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "UNIBDANI-Q300-RALL"
+  },
+  {
+    "name": "Malkist Chocolate Flavoured Crunchy Layered Crackers",
+    "quantity": {
+      "originalValue": "138 g",
+      "unitValue": 138,
+      "unit": "g"
+    },
+    "sku": "MALKCHOC-Q138-RALL"
+  },
+  {
+    "name": "Unibic Snappers Potato Crackers - Cream N' Onion",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "UNIBSNAP-Q300-RALL"
+  },
+  {
+    "name": "Britannia Tiger Krunch Chocochips Biscuits",
+    "quantity": {
+      "originalValue": "4X100 gm",
+      "packSize": 4,
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "BRITTIGE-Q100-RALL"
+  },
+  {
+    "name": "Unibic Choco Nut Cookies",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "UNIBCHOC-Q500-RALL"
+  },
+  {
+    "name": "Britannia Good Day Butter Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q600-RALL"
+  },
+  {
+    "name": "Unibic Snappers Potato Crackers - Indi Spice",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "UNIBSNAP-Q300-RALL"
+  },
+  {
+    "name": "McVitie's Ginger Cookies",
+    "quantity": {
+      "originalValue": "120 g",
+      "unitValue": 120,
+      "unit": "g"
+    },
+    "sku": "MCVIGING-Q120-RALL"
+  },
+  {
+    "name": "Cadbury Chocobakes Choco Chip Cookies",
+    "quantity": {
+      "originalValue": "167 gm",
+      "unitValue": 167,
+      "unit": "g"
+    },
+    "sku": "CADBCHOC-Q167-RALL"
+  },
+  {
+    "name": "Britannia Good Day Pista Badm Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q600-RALL"
+  },
+  {
+    "name": "Malkist Cappuccino Flavoured Crunchy Layered Crackers",
+    "quantity": {
+      "originalValue": "144 g",
+      "unitValue": 144,
+      "unit": "g"
+    },
+    "sku": "MALKCAPP-Q144-RALL"
+  },
+  {
+    "name": "Sunfeast Nice Coconut Biscuits",
+    "quantity": {
+      "originalValue": "142 g",
+      "unitValue": 142,
+      "unit": "g"
+    },
+    "sku": "SUNFNICE-Q142-RALL"
+  },
+  {
+    "name": "Open Secret Un-Junked Chocolate Biscuits",
+    "quantity": {
+      "originalValue": "35 gm",
+      "unitValue": 35,
+      "unit": "g"
+    },
+    "sku": "OPENSECR-Q35-RALL"
+  },
+  {
+    "name": "Open Secret Un-Junked Jeera Biscuits",
+    "quantity": {
+      "originalValue": "35 gm",
+      "unitValue": 35,
+      "unit": "g"
+    },
+    "sku": "OPENSECR-Q35-RALL"
+  },
+  {
+    "name": "Parle 20-20 Cashew Cookies",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "PARL20-2-Q150-RALL"
+  },
+  {
+    "name": "Lotus Biscoff Biscuit",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "LOTUBISC-Q250-RALL"
+  },
+  {
+    "name": "Open Secret Un-Junked Butter Biscuits",
+    "quantity": {
+      "originalValue": "35 gm",
+      "unitValue": 35,
+      "unit": "g"
+    },
+    "sku": "OPENSECR-Q35-RALL"
+  },
+  {
+    "name": "Patanjali Doodh Biscuits",
+    "quantity": {
+      "originalValue": "255 g",
+      "unitValue": 255,
+      "unit": "g"
+    },
+    "sku": "PATADOOD-Q255-RALL"
+  },
+  {
+    "name": "RiteBite Max Protein 7 Grain Breakfast Cookie Choco Almond",
+    "quantity": {
+      "originalValue": "60 g",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "RITEMAXP-Q60-RALL"
+  },
+  {
+    "name": "Biskybites Cashew Cookies",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "BISKCASH-Q200-RALL"
+  },
+  {
+    "name": "Bisky Bites Cashew Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q600-RALL"
+  },
+  {
+    "name": "Sugar Free D'Lite Choco Chip Cookies",
+    "quantity": {
+      "originalValue": "75 g",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "SUGAFREE-Q75-RALL"
+  },
+  {
+    "name": "Sugar Free D'Lite Yummy Berry Cookies",
+    "quantity": {
+      "originalValue": "75 g",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "SUGAFREE-Q75-RALL"
+  },
+  {
+    "name": "Sugar Free D'Lite Mocha Hazelnut Cookies",
+    "quantity": {
+      "originalValue": "75 g",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "SUGAFREE-Q75-RALL"
+  },
+  {
+    "name": "Parle-G Original Gluco Biscuits",
+    "quantity": {
+      "originalValue": "90 gm",
+      "unitValue": 90,
+      "unit": "g"
+    },
+    "sku": "PARLORIG-Q90-RALL"
+  },
+  {
+    "name": "Parle-G Original Gluco Biscuits",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "PARLORIG-Q200-RALL"
+  },
+  {
+    "name": "Parle-G Original Gluco Biscuits",
+    "quantity": {
+      "originalValue": "800 gm",
+      "unitValue": 800,
+      "unit": "g"
+    },
+    "sku": "PARLORIG-Q800-RALL"
+  },
+  {
+    "name": "Parle-G Gold Biscuits",
+    "quantity": {
+      "originalValue": "62.5 gm",
+      "unitValue": 62.5,
+      "unit": "g"
+    },
+    "sku": "PARLGOLD-Q62-RALL"
+  },
+  {
+    "name": "Parle-G Gold Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "PARLGOLD-Q500-RALL"
+  },
+  {
+    "name": "Parle-G Gold Biscuits",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "PARLGOLD-Q1-RALL"
+  },
+  {
+    "name": "Patanjali Doodh Biscuits",
+    "quantity": {
+      "originalValue": "800 gm",
+      "unitValue": 800,
+      "unit": "g"
+    },
+    "sku": "PATADOOD-Q800-RALL"
+  },
+  {
+    "name": "Patanjali Doodh Biscuits",
+    "quantity": {
+      "originalValue": "70 gm",
+      "unitValue": 70,
+      "unit": "g"
+    },
+    "sku": "PATADOOD-Q70-RALL"
+  },
+  {
+    "name": "Britannia Milk Bikis Biscuits",
+    "quantity": {
+      "originalValue": "170.5 gm",
+      "unitValue": 170.5,
+      "unit": "g"
+    },
+    "sku": "BRITMILK-Q170-RALL"
+  },
+  {
+    "name": "Britannia Milk Bikis Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BRITMILK-Q500-RALL"
+  },
+  {
+    "name": "Britannia Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "68 gm",
+      "unitValue": 68,
+      "unit": "g"
+    },
+    "sku": "BRITMARI-Q68-RALL"
+  },
+  {
+    "name": "Britannia Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "BRITMARI-Q250-RALL"
+  },
+  {
+    "name": "Britannia Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "950 g",
+      "unitValue": 950,
+      "unit": "g"
+    },
+    "sku": "BRITMARI-Q950-RALL"
+  },
+  {
+    "name": "Britannia Vita Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "61 gm",
+      "unitValue": 61,
+      "unit": "g"
+    },
+    "sku": "BRITVITA-Q61-RALL"
+  },
+  {
+    "name": "Britannia Vita Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "900 gm",
+      "unitValue": 900,
+      "unit": "g"
+    },
+    "sku": "BRITVITA-Q900-RALL"
+  },
+  {
+    "name": "Britannia Vita Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "248 gm",
+      "unitValue": 248,
+      "unit": "g"
+    },
+    "sku": "BRITVITA-Q248-RALL"
+  },
+  {
+    "name": "Britannia Vita Marie Gold Biscuits",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "BRITVITA-Q150-RALL"
+  },
+  {
+    "name": "Parle Marie Biscuits",
+    "quantity": {
+      "originalValue": "800 gm",
+      "unitValue": 800,
+      "unit": "g"
+    },
+    "sku": "PARLMARI-Q800-RALL"
+  },
+  {
+    "name": "Sunfeast Marie Light Biscuit",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "SUNFMARI-Q1-RALL"
+  },
+  {
+    "name": "McVitie's Wholewheat Marie Biscuits",
+    "quantity": {
+      "originalValue": "195 gm",
+      "unitValue": 195,
+      "unit": "g"
+    },
+    "sku": "MCVIWHOL-Q195-RALL"
+  },
+  {
+    "name": "Parle Monaco Classic Regular Biscuit",
+    "quantity": {
+      "originalValue": "700 g",
+      "unitValue": 700,
+      "unit": "g"
+    },
+    "sku": "PARLMONA-Q700-RALL"
+  },
+  {
+    "name": "Parle Monaco Classic Regular Biscuit",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PARLMONA-Q400-RALL"
+  },
+  {
+    "name": "Parle Monaco Classic Regular Biscuit",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "PARLMONA-Q200-RALL"
+  },
+  {
+    "name": "Parle Monaco Classic Regular Biscuit",
+    "quantity": {
+      "originalValue": "52.2 gm",
+      "unitValue": 52.2,
+      "unit": "g"
+    },
+    "sku": "PARLMONA-Q52-RALL"
+  },
+  {
+    "name": "Parle Krackjack Biscuits",
+    "quantity": {
+      "originalValue": "700 gm",
+      "unitValue": 700,
+      "unit": "g"
+    },
+    "sku": "PARLKRAC-Q700-RALL"
+  },
+  {
+    "name": "Parle Krackjack Biscuits",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "PARLKRAC-Q200-RALL"
+  },
+  {
+    "name": "Parle Krackjack Biscuits",
+    "quantity": {
+      "originalValue": "56.7 gm",
+      "unitValue": 56.7,
+      "unit": "g"
+    },
+    "sku": "PARLKRAC-Q56-RALL"
+  },
+  {
+    "name": "Britannia 50-50 Maska Chaska Biscuits",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "BRIT50-5-Q300-RALL"
+  },
+  {
+    "name": "Britannia 50-50 Maska Chaska Biscuits",
+    "quantity": {
+      "originalValue": "105 g",
+      "unitValue": 105,
+      "unit": "g"
+    },
+    "sku": "BRIT50-5-Q105-RALL"
+  },
+  {
+    "name": "Parle Monaco Cheeslings Classic",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "PARLMONA-Q300-RALL"
+  },
+  {
+    "name": "Lotte Choco Pie",
+    "quantity": {
+      "originalValue": "504 gm",
+      "unitValue": 504,
+      "unit": "g"
+    },
+    "sku": "LOTTCHOC-Q504-RALL"
+  },
+  {
+    "name": "Lotte Choco Pie",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "LOTTCHOC-Q300-RALL"
+  },
+  {
+    "name": "Lotte Choco Pie",
+    "quantity": {
+      "originalValue": "168 gm",
+      "unitValue": 168,
+      "unit": "g"
+    },
+    "sku": "LOTTCHOC-Q168-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Fills Cookies",
+    "quantity": {
+      "originalValue": "75 gm",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q75-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Fills Cookies",
+    "quantity": {
+      "originalValue": "275 g",
+      "unitValue": 275,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q275-RALL"
+  },
+  {
+    "name": "Britannia Jim Jam Cream Biscuits",
+    "quantity": {
+      "originalValue": "138 g",
+      "unitValue": 138,
+      "unit": "g"
+    },
+    "sku": "BRITJIMJ-Q138-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Vanilla Flavour Crème Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "131.25 g",
+      "unitValue": 131.25,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q131-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Vanilla Flavour Crème Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "288.75 gm",
+      "unitValue": 288.75,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q288-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Vanilla Flavour Crème Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "481.25 gm",
+      "unitValue": 481.25,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q481-RALL"
+  },
+  {
+    "name": "Bisky Bites Vanilla Magic Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q300-RALL"
+  },
+  {
+    "name": "Britannia Bourbon The Original Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BRITBOUR-Q500-RALL"
+  },
+  {
+    "name": "Britannia Bourbon The Original Biscuits",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "BRITBOUR-Q150-RALL"
+  },
+  {
+    "name": "Britannia Bourbon The Original Biscuits",
+    "quantity": {
+      "originalValue": "50 gm",
+      "unitValue": 50,
+      "unit": "g"
+    },
+    "sku": "BRITBOUR-Q50-RALL"
+  },
+  {
+    "name": "Bisky Bites Bourbon Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q500-RALL"
+  },
+  {
+    "name": "Bisky Bites Bourbon Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q150-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Fills Cookies",
+    "quantity": {
+      "originalValue": "562.5 gm",
+      "unitValue": 562.5,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q562-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Bourbon Biscuits",
+    "quantity": {
+      "originalValue": "111.6 g",
+      "unitValue": 111.6,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q111-RALL"
+  },
+  {
+    "name": "Parle Hide & Seek Choco Chip Creme Sandwiches - 4 Flavours",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PARLHIDE-Q400-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Creme Biscuits",
+    "quantity": {
+      "originalValue": "83 g",
+      "unitValue": 83,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q83-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Chocolate Flavour Creme Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "288.75 gm",
+      "unitValue": 288.75,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q288-RALL"
+  },
+  {
+    "name": "Bisky Bites Chocolate Blast Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q300-RALL"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Vanilla Creme Biscuits",
+    "quantity": {
+      "originalValue": "83 g",
+      "unitValue": 83,
+      "unit": "g"
+    },
+    "sku": "SUNFDARK-Q83-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Vanilla Flavour Cream Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "7 x 131.25 gm",
+      "packSize": 7,
+      "unitValue": 131.25,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q131-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Chocolate Crème Cream Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "481.25 gm",
+      "unitValue": 481.25,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q481-RALL"
+  },
+  {
+    "name": "Bisky Bites Choco Blast Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q500-RALL"
+  },
+  {
+    "name": "Cadbury Chocobakes ChocFilled Cookies",
+    "quantity": {
+      "originalValue": "300 g",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "CADBCHOC-Q300-RALL"
+  },
+  {
+    "name": "Britannia Jim Jam Pops Cookies",
+    "quantity": {
+      "originalValue": "350 gm",
+      "unitValue": 350,
+      "unit": "g"
+    },
+    "sku": "BRITJIMJ-Q350-RALL"
+  },
+  {
+    "name": "Britannia Treat Jimjam Naughty Jam Biscuits",
+    "quantity": {
+      "originalValue": "57 gm",
+      "unitValue": 57,
+      "unit": "g"
+    },
+    "sku": "BRITTREA-Q57-RALL"
+  },
+  {
+    "name": "Dukes Bourbon Biscuits",
+    "quantity": {
+      "originalValue": "135 g",
+      "unitValue": 135,
+      "unit": "g"
+    },
+    "sku": "DUKEBOUR-Q135-RALL"
+  },
+  {
+    "name": "Bisky Bites Vanilla Magic Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "500 g",
+      "unitValue": 500,
+      "unit": "g"
+    },
+    "sku": "BISKBITE-Q500-RALL"
+  },
+  {
+    "name": "Nabati Nextar Brownies Cocoa Delight",
+    "quantity": {
+      "originalValue": "34 gm",
+      "unitValue": 34,
+      "unit": "g"
+    },
+    "sku": "NABANEXT-Q34-RALL"
+  },
+  {
+    "name": "Cadbury Bournvita Biscuit Pack",
+    "quantity": {
+      "originalValue": "400 g",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "CADBBOUR-Q400-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Original Creme Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "43.75 gm",
+      "unitValue": 43.75,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q43-RALL"
+  },
+  {
+    "name": "Oreo Choco Creme Sandwich Biscuits",
+    "quantity": {
+      "originalValue": "43.75 gm",
+      "unitValue": 43.75,
+      "unit": "g"
+    },
+    "sku": "OREOCHOC-Q43-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Strawberry Flavour Crème Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "113.75 g",
+      "unitValue": 113.75,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q113-RALL"
+  },
+  {
+    "name": "Britannia Pure Magic Chocolush",
+    "quantity": {
+      "originalValue": "300 gm",
+      "unitValue": 300,
+      "unit": "g"
+    },
+    "sku": "BRITPURE-Q300-RALL"
+  },
+  {
+    "name": "Cadbury Oreo Strawberry Flavour Creme Sandwich Biscuit",
+    "quantity": {
+      "originalValue": "43.75 gm",
+      "unitValue": 43.75,
+      "unit": "g"
+    },
+    "sku": "CADBOREO-Q43-RALL"
+  },
+  {
+    "name": "Britannia NutriChoice Digestive Hi-Fibre Biscuits",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "BRITNUTR-Q1-RALL"
+  },
+  {
+    "name": "Britannia NutriChoice Digestive Hi-Fibre Biscuits",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "BRITNUTR-Q100-RALL"
+  },
+  {
+    "name": "Britannia Nutri Choice Digestive Zero Biscuits",
+    "quantity": {
+      "originalValue": "100 g",
+      "unitValue": 100,
+      "unit": "g"
+    },
+    "sku": "BRITNUTR-Q100-RALL"
+  },
+  {
+    "name": "Sunfeast Farmlite 5 Grain Digestive Biscuit",
+    "quantity": {
+      "originalValue": "800 g",
+      "unitValue": 800,
+      "unit": "g"
+    },
+    "sku": "SUNFFARM-Q800-RALL"
+  },
+  {
+    "name": "Mcvitie's Digestive Biscuits",
+    "quantity": {
+      "originalValue": "959.1 gm",
+      "unitValue": 959.1,
+      "unit": "g"
+    },
+    "sku": "MCVIDIGE-Q959-RALL"
+  },
+  {
+    "name": "Mcvitie's Digestive Biscuits",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "MCVIDIGE-Q200-RALL"
+  },
+  {
+    "name": "Mcvitie'S Hobnobs Oat & Wholwmeal Biscuits",
+    "quantity": {
+      "originalValue": "75 gm",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "MCVIHOBN-Q75-RALL"
+  },
+  {
+    "name": "Mcvitie'S Hobnobs Choco Chips Biscuits",
+    "quantity": {
+      "originalValue": "75 gm",
+      "unitValue": 75,
+      "unit": "g"
+    },
+    "sku": "MCVIHOBN-Q75-RALL"
+  },
+  {
+    "name": "Britannia Good Day Pista Badm Cookies",
+    "quantity": {
+      "originalValue": "600 gm",
+      "unitValue": 600,
+      "unit": "g"
+    },
+    "sku": "BRITGOOD-Q600-RALL"
+  },
+  {
+    "name": "McVities Hobnobs Cookies With Choco Chips",
+    "quantity": {
+      "originalValue": "153.8 gm",
+      "unitValue": 153.8,
+      "unit": "g"
+    },
+    "sku": "MCVIHOBN-Q153-RALL"
+  },
+  {
+    "name": "McVities Hobnobs Cookies",
+    "quantity": {
+      "originalValue": "153.8 gm",
+      "unitValue": 153.8,
+      "unit": "g"
+    },
+    "sku": "MCVIHOBN-Q153-RALL"
+  },
+  {
+    "name": "Parle Real Elaichi Premium Rusk",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "PARLREAL-Q1-RALL"
+  },
+  {
+    "name": "Britannia Toastea Premium Bake Rusk",
+    "quantity": {
+      "originalValue": "654 gm",
+      "unitValue": 654,
+      "unit": "g"
+    },
+    "sku": "BRITTOAS-Q654-RALL"
+  },
+  {
+    "name": "Britannia Toastea Premium Bake Rusk",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "BRITTOAS-Q400-RALL"
+  },
+  {
+    "name": "Parle Real Elaichi Rusk",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "PARLREAL-Q400-RALL"
+  },
+  {
+    "name": "Royal Toast",
+    "quantity": {
+      "originalValue": "700 g",
+      "unitValue": 700,
+      "unit": "g"
+    },
+    "sku": "ROYATOAS-Q700-RALL"
+  },
+  {
+    "name": "Royal Toast",
+    "quantity": {
+      "originalValue": "400 gm",
+      "unitValue": 400,
+      "unit": "g"
+    },
+    "sku": "ROYATOAS-Q400-RALL"
+  },
+  {
+    "name": "Kwality Jeera Butter",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "KWALJEER-Q180-RALL"
+  },
+  {
+    "name": "Kwality Maska Khari",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "KWALMASK-Q180-RALL"
+  },
+  {
+    "name": "Tosita Wheat Khari",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIWHEA-Q200-RALL"
+  },
+  {
+    "name": "Tosita Wheat Rusk",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIWHEA-Q200-RALL"
+  },
+  {
+    "name": "Tosita Jeera Butter Bites",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIJEER-Q200-RALL"
+  },
+  {
+    "name": "Tosita Multi Grain Rusk",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIMULT-Q200-RALL"
+  },
+  {
+    "name": "Tosita Maska Khari",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "TOSIMASK-Q150-RALL"
+  },
+  {
+    "name": "Tosita Jeera Khari",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIJEER-Q200-RALL"
+  },
+  {
+    "name": "Tosita Milk Rusk",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIMILK-Q200-RALL"
+  },
+  {
+    "name": "Tosita Baby Rusk Cheddar Cheese",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "TOSIBABY-Q150-RALL"
+  },
+  {
+    "name": "Tosita Makhaniya Butter",
+    "quantity": {
+      "originalValue": "200 g",
+      "unitValue": 200,
+      "unit": "g"
+    },
+    "sku": "TOSIMAKH-Q200-RALL"
+  },
+  {
+    "name": "Dukes Waffy Choco Roll",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "DUKEWAFF-Q250-RALL"
+  },
+  {
+    "name": "Dukes Waffy Strawberry Flavoured Wafer Biscuits",
+    "quantity": {
+      "originalValue": "60 gm",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "DUKEWAFF-Q60-RALL"
+  },
+  {
+    "name": "Dukes Waffy Chocolate Flavoured Wafer Biscuits",
+    "quantity": {
+      "originalValue": "60 gm",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "DUKEWAFF-Q60-RALL"
+  },
+  {
+    "name": "Dukes Waffy Vanilla Flavoured Wafer Biscuits",
+    "quantity": {
+      "originalValue": "60 gm",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "DUKEWAFF-Q60-RALL"
+  },
+  {
+    "name": "Dukes Waffy Strawberry Roll",
+    "quantity": {
+      "originalValue": "250 gm",
+      "unitValue": 250,
+      "unit": "g"
+    },
+    "sku": "DUKEWAFF-Q250-RALL"
+  },
+  {
+    "name": "Britannia Treat Orange Cream Wafer",
+    "quantity": {
+      "originalValue": "55 gm",
+      "unitValue": 55,
+      "unit": "g"
+    },
+    "sku": "BRITTREA-Q55-RALL"
+  },
+  {
+    "name": "The Belgian Waffle Crisps Double Choco Crisps",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "THEBELGW-Q85-RALL"
+  },
+  {
+    "name": "Britannia Treat Strawberry Cream Wafer",
+    "quantity": {
+      "originalValue": "55 gm",
+      "unitValue": 55,
+      "unit": "g"
+    },
+    "sku": "BRITTREA-Q55-RALL"
+  },
+  {
+    "name": "The Belgian Waffle Classic Choco Crisps",
+    "quantity": {
+      "originalValue": "85 gm",
+      "unitValue": 85,
+      "unit": "g"
+    },
+    "sku": "THEBELGW-Q85-RALL"
+  },
+  {
+    "name": "Nova Nova Best Bite Belgian Chocolate Choco Filled Cone",
+    "quantity": {
+      "originalValue": "60 g",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q60-RALL"
+  },
+  {
+    "name": "Nabati Pink Lava Cream Wafers Biscuits",
+    "quantity": {
+      "originalValue": "62 gm",
+      "unitValue": 62,
+      "unit": "g"
+    },
+    "sku": "NABAPINK-Q62-RALL"
+  },
+  {
+    "name": "Nabati Coco Lava Coconut Flavoured Cream Wafer Biscuits",
+    "quantity": {
+      "originalValue": "62 gm",
+      "unitValue": 62,
+      "unit": "g"
+    },
+    "sku": "NABACOCO-Q62-RALL"
+  },
+  {
+    "name": "Nabati Richoco Cocoa Cream Wafer Biscuits",
+    "quantity": {
+      "originalValue": "60 g",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "NABARICH-Q60-RALL"
+  },
+  {
+    "name": "Loacker Quadratini Chocolate Wafer Cookies",
+    "quantity": {
+      "originalValue": "125 g",
+      "unitValue": 125,
+      "unit": "g"
+    },
+    "sku": "LOACQUAD-Q125-RALL"
+  },
+  {
+    "name": "Loacker Quadratini Dark Chocolate Wafer Cookies",
+    "quantity": {
+      "originalValue": "125 g",
+      "unitValue": 125,
+      "unit": "g"
+    },
+    "sku": "LOACQUAD-Q125-RALL"
+  },
+  {
+    "name": "Nova Nova Choco Pockets Strawberry Cream Wafer Bites",
+    "quantity": {
+      "originalValue": "30 g",
+      "unitValue": 30,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q30-RALL"
+  },
+  {
+    "name": "Nabati Richeese Cheese Cream Wafer Biscuits",
+    "quantity": {
+      "originalValue": "60 g",
+      "unitValue": 60,
+      "unit": "g"
+    },
+    "sku": "NABARICH-Q60-RALL"
+  },
+  {
+    "name": "Lavian Wafferro Rolls Chocofillz Wafer Sticks",
+    "quantity": {
+      "originalValue": "25U X 11.5 gm",
+      "packSize": 25,
+      "packUnit": "U",
+      "unitValue": 11.5,
+      "unit": "g"
+    },
+    "sku": "LAVIWAFF-Q11-RALL-PAC25"
+  },
+  {
+    "name": "Nova Nova Choco Pockets Classic Chocolate Wafer Bites",
+    "quantity": {
+      "originalValue": "30 g",
+      "unitValue": 30,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q30-RALL"
+  },
+  {
+    "name": "Loacker Quadratini Napolitaner Wafer Cookies",
+    "quantity": {
+      "originalValue": "125 g",
+      "unitValue": 125,
+      "unit": "g"
+    },
+    "sku": "LOACQUAD-Q125-RALL"
+  },
+  {
+    "name": "Loacker Quadratini Vanilla Wafer Cookies",
+    "quantity": {
+      "originalValue": "125 g",
+      "unitValue": 125,
+      "unit": "g"
+    },
+    "sku": "LOACQUAD-Q125-RALL"
+  },
+  {
+    "name": "Nova Nova Best Bite Gift Box",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q150-RALL"
+  },
+  {
+    "name": "Nova Nova Choco Pockets Gift Box",
+    "quantity": {
+      "originalValue": "180 g",
+      "unitValue": 180,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q180-RALL"
+  },
+  {
+    "name": "Nova Nova All In One Family Pack Gift Box",
+    "quantity": {
+      "originalValue": "240 g",
+      "unitValue": 240,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q240-RALL"
+  },
+  {
+    "name": "Nova Nova Sweet & Savoury Gift Box",
+    "quantity": {
+      "originalValue": "205 g",
+      "unitValue": 205,
+      "unit": "g"
+    },
+    "sku": "NOVANOVA-Q205-RALL"
+  },
+  {
+    "name": "Threptin Diskettes - Vanilla",
+    "quantity": {
+      "originalValue": "1 kg",
+      "unitValue": 1,
+      "unit": "kg"
+    },
+    "sku": "THREDISK-Q1-RALL"
+  },
+  {
+    "name": "Threptin Biscuits Vanilla",
+    "quantity": {
+      "originalValue": "275 gm",
+      "unitValue": 275,
+      "unit": "g"
+    },
+    "sku": "THREBISC-Q275-RALL"
+  },
+  {
+    "name": "Threptin Diskettes - Chocolate",
+    "quantity": {
+      "originalValue": "275 gm",
+      "unitValue": 275,
+      "unit": "g"
+    },
+    "sku": "THREDISK-Q275-RALL"
+  },
+  {
+    "name": "Britannia NutriChoice Sugar Free Cracker Biscuits",
+    "quantity": {
+      "originalValue": "67 gm",
+      "unitValue": 67,
+      "unit": "g"
+    },
+    "sku": "BRITNUTR-Q67-RALL"
+  },
+  {
+    "name": "Nutrivalue Whole Ragi Health Vizkits Biscuits",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "NUTRWHOL-Q150-RALL"
+  },
+  {
+    "name": "Nutrivalue Dibeck Health Biscuits",
+    "quantity": {
+      "originalValue": "150 g",
+      "unitValue": 150,
+      "unit": "g"
+    },
+    "sku": "NUTRDIBE-Q150-RALL"
+  }
+]
