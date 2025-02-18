@@ -5,6 +5,7 @@ import logger from "morgan";
 import cors from "cors";
 import connectDB from "./db/connect";
 import rootRouter from "./routes";
+import postsRouter from "./routes/posts";
 
 const app = express();
 
@@ -21,6 +22,7 @@ app.use(cors());
 app.use(express.static("public"));
 
 app.use("/", rootRouter);
+app.use("/api/posts", postsRouter);
 
 // catch 404 and forward to error handler
 app.use((req: Request, res: Response, next: NextFunction) => {
