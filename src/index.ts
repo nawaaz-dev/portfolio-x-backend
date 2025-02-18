@@ -85,4 +85,5 @@ function onListening(): void {
   const bind =
     typeof addr === "string" ? "pipe " + addr : "port " + (addr?.port || "");
   serverDebug("Listening on " + bind);
+  console.log(`Server is running on port ${process.env.PORT}`);
 }
