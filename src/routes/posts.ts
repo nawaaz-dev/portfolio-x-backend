@@ -1,5 +1,5 @@
 import { Router, Request, Response } from "express";
-import PostModel from "src/db/schemas/posts";
+import PostModel from "@/db/schemas/posts";
 
 const postsRouter = Router();
 
