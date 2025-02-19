@@ -1,7 +1,22 @@
 import mongoose from "mongoose";
 import { IPostCommon } from "@nawaaz-dev/portfolio-types";
 
-interface IPostsModel extends Document, IPostCommon {}
+type PostCommon = Omit<IPostCommon, "actions"> & {
+  actions: Omit<IPostCommon["actions"], "comments"> & {
+    comments: Array<Omit<IPostCommon["actions"]["comments"][0], "userInfo">>;
+  };
+};
+
+interface IPostsModel extends Document, PostCommon {}
+
+const CommentSchema = new mongoose.Schema<PostCommon["actions"]["comments"][0]>(
+  {
+    userId: { type: String, required: true },
+    text: { type: String, required: true },
+    timestamp: { type: Date, default: Date.now },
+  },
+  { _id: true }
+);
 
 const PostSchema = new mongoose.Schema<IPostsModel>(
   {
@@ -24,7 +39,7 @@ const PostSchema = new mongoose.Schema<IPostsModel>(
     actions: {
       likes: { type: Number, default: 0 },
       comments: {
-        type: [{ user: String, text: String, timestamp: Date }],
+        type: [CommentSchema],
         default: [],
       },
       shares: { type: Number, default: 0 },

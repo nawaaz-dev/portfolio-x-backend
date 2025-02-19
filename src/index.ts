@@ -1,11 +1,12 @@
-#!/usr/bin/env node
-
 import app from "./app";
 import debug from "debug";
 import * as http from "http";
 import dotenv from "dotenv";
 
-dotenv.config();
+// Load environment variables from .env file in development
+if (process.env.NODE_ENV !== "production") {
+  dotenv.config();
+}
 
 const serverDebug = debug("ecom-research:server");
 
@@ -85,5 +86,4 @@ function onListening(): void {
   const bind =
     typeof addr === "string" ? "pipe " + addr : "port " + (addr?.port || "");
   serverDebug("Listening on " + bind);
-  console.log(`Server is running on port ${process.env.PORT}`);
 }

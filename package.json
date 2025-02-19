@@ -29,7 +29,7 @@
     "yourders-types": "1.0.27"
   },
   "devDependencies": {
-    "@nawaaz-dev/portfolio-types": "^1.0.1",
+    "@nawaaz-dev/portfolio-types": "^1.0.6",
     "@rollup/plugin-alias": "^5.1.1",
     "@rollup/plugin-commonjs": "^28.0.2",
     "@rollup/plugin-json": "^6.1.0",

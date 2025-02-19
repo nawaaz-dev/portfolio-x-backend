@@ -130,10 +130,10 @@
   dependencies:
     sparse-bitfield "^3.0.3"
 
-"@nawaaz-dev/portfolio-types@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@nawaaz-dev/portfolio-types/-/portfolio-types-1.0.1.tgz#8b92b72e85b871815fbd99295192619835810b16"
-  integrity sha512-hSBE8NEq6so3CTGOesVbAh3ArJp9O327WXmi0hpZo9e41XekqAaXwsGWMUSRMUdoAA/+2cqUTQ4J+8Lm9Slx1A==
+"@nawaaz-dev/portfolio-types@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@nawaaz-dev/portfolio-types/-/portfolio-types-1.0.6.tgz#4b13ece9607d2dc3359ea690b7227338cde78d2e"
+  integrity sha512-l8LGutE08nRBf5Y6qdo+90O8r7LdJOTIkldHxZMwj8qoJaGyhlxWZTGC6Tmpo52SL3XeRDGpZPzujkX1VUHMIQ==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"

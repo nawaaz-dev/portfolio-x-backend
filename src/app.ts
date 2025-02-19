@@ -6,6 +6,7 @@ import cors from "cors";
 import connectDB from "./db/connect";
 import rootRouter from "./routes";
 import postsRouter from "./routes/posts";
+import usersRouter from "./routes/users";
 
 const app = express();
 
@@ -23,6 +24,7 @@ app.use(express.static("public"));
 
 app.use("/", rootRouter);
 app.use("/api/posts", postsRouter);
+app.use("/api/users", usersRouter);
 
 // catch 404 and forward to error handler
 app.use((req: Request, res: Response, next: NextFunction) => {
