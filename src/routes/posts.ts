@@ -1,34 +1,42 @@
 import { Router, Request, Response } from "express";
 import PostModel from "@/db/schemas/posts";
 import UserModel from "@/db/schemas/users";
-import { IPostComment, IPostCommon } from "@nawaaz-dev/portfolio-types";
+import { IPostComment, IPostCommon, User } from "@nawaaz-dev/portfolio-types";
 
 const postsRouter = Router();
 
-postsRouter.get("/", async (req: Request, res: Response) => {
-  const posts = await PostModel.find().lean();
-  const users = await UserModel.find();
-
-  const postsData = (posts as unknown as IPostCommon[]).map((post) => {
-    const commentsWithUsers = post.actions.comments.map((comment) => {
-      const user = users.find((user) => user._id.equals(comment.userId));
-
-      return {
-        ...comment,
-        userInfo: {
-          name: user?.name ?? "",
-          image: user?.image ?? "",
-        },
-      };
-    });
+const appendUserInfo = (post: IPostCommon, users: User[]) => {
+  console.log(post);
+  const commentsWithUsers = post.actions.comments.map((comment) => {
+    const user = users.find((user) => (user._id as any).equals(comment.userId));
 
     return {
-      ...post,
-      actions: {
-        ...post.actions,
-        comments: commentsWithUsers,
+      ...comment,
+      userInfo: {
+        name: user?.name ?? "",
+        image: user?.image ?? "",
       },
     };
+  });
+
+  return {
+    ...post,
+    actions: {
+      ...post.actions,
+      comments: commentsWithUsers,
+    },
+  };
+};
+
+postsRouter.get("/", async (req: Request, res: Response) => {
+  const posts = await PostModel.find().lean();
+  const users = (await UserModel.find().lean()) as unknown as User[];
+  console.log(users);
+
+  const postsData = (posts as unknown as IPostCommon[]).map((post) => {
+    const postWithUserInfo = appendUserInfo(post, users);
+    console.log("postWithUserInfo", postWithUserInfo);
+    return postWithUserInfo;
   });
 
   return res.json({
@@ -75,26 +83,39 @@ postsRouter.get("/add", (req: Request, res: Response) => {
   });
 });
 
-postsRouter.post("/:postId/like", (req: Request, res: Response) => {
+/**
+ * TODO: Improve code quality
+ */
+postsRouter.post("/:postId/like", async (req: Request, res: Response) => {
   const postId = req.params.postId;
-  const post = PostModel.findById(postId);
+  const post = (await PostModel.findById(
+    postId
+  ).lean()) as unknown as IPostCommon;
+  const users = (await UserModel.find().lean()) as unknown as User[];
 
-  post.then((post) => {
-    if (!post) {
-      res.json({
-        error: "Post not found",
-        data: null,
-      });
-      return;
-    }
-
-    post.actions.likes += 1;
-    post.save();
-
+  if (!post) {
     res.json({
-      error: null,
-      data: post,
+      error: "Post not found",
+      data: null,
     });
+    return;
+  }
+
+  await PostModel.updateOne(
+    { _id: postId },
+    {
+      $set: {
+        "actions.likes": post.actions.likes + 1,
+      },
+    }
+  );
+
+  res.json({
+    error: null,
+    data: appendUserInfo(
+      (await PostModel.findById(postId).lean()) as unknown as IPostCommon,
+      users
+    ),
   });
 });
 
