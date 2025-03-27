@@ -2,6 +2,13 @@ import { Router, Request, Response } from "express";
 import PostModel from "@/db/schemas/posts";
 import UserModel from "@/db/schemas/users";
 import { IPostComment, IPostCommon, User } from "@nawaaz-dev/portfolio-types";
+import {
+  educationData,
+  experienceData,
+  projectData,
+  techStackData,
+} from "@/db/raw-data";
+import mongoose from "mongoose";
 
 const postsRouter = Router();
 
@@ -29,58 +36,54 @@ const appendUserInfo = (post: IPostCommon, users: User[]) => {
 };
 
 postsRouter.get("/", async (req: Request, res: Response) => {
-  const posts = await PostModel.find().lean();
-  const users = (await UserModel.find().lean()) as unknown as User[];
-  console.log(users);
+  try {
+    const posts = await PostModel.find().lean();
+    const users = (await UserModel.find().lean()) as unknown as User[];
+    console.log(users);
 
-  const postsData = (posts as unknown as IPostCommon[]).map((post) => {
-    const postWithUserInfo = appendUserInfo(post, users);
-    console.log("postWithUserInfo", postWithUserInfo);
-    return postWithUserInfo;
-  });
+    const postsData = (posts as unknown as IPostCommon[]).map((post) => {
+      const postWithUserInfo = appendUserInfo(post, users);
+      console.log("postWithUserInfo", postWithUserInfo);
+      return postWithUserInfo;
+    });
 
-  return res.json({
-    error: null,
-    data: postsData,
-  });
+    postsData.sort((a, b) => {
+      return (
+        new Date(b.time.start).getTime() - new Date(a.time.start).getTime()
+      );
+    });
+
+    return res.json({
+      error: null,
+      data: postsData,
+    });
+  } catch (error: any) {
+    return res.json({
+      error: error.message,
+      data: null,
+    });
+  }
 });
 
-postsRouter.get("/add", (req: Request, res: Response) => {
-  const post = PostModel.create({
-    tab: "experience",
-    title: "Frontend Engineer",
-    image: "https://placehold.co/150",
-    time: "Jan 2024 - Oct 2024",
-    details: {
-      company: "Kapstan Infra",
-      location: "Remote (India/USA)",
-      roles: [
-        "💻 Worked on a project that involved building a web application for a client.",
-        "⚛️ Developed the frontend using React, Redux, and TypeScript.",
-        "🔗 Worked with the backend team to integrate the frontend with the backend.",
-      ],
-    },
-    actions: {
-      likes: 0,
-      comments: [
-        {
-          userId: "67b589bfed86a280bd2a82cc",
-          text: "Great work!",
-          timestamp: new Date(),
-        },
-        {
-          userId: "67b589bfed86a280bd2a82cc",
-          text: "Work great!",
-          timestamp: new Date(),
-        },
-      ],
-      shares: 0,
-    },
+postsRouter.get("/add", async (req: Request, res: Response) => {
+  // get all posts
+  mongoose.connection.db?.dropCollection("posts");
+
+  // const allPosts = PostModel.find();
+  // // remove all posts
+  // allPosts.deleteMany();
+  // add new post
+  await PostModel.create(experienceData);
+  await PostModel.create(techStackData);
+  await PostModel.create(projectData);
+  await PostModel.create(educationData);
+
+  res.json({
+    error: null,
+    data: null,
   });
 
-  post.then((post) => {
-    res.json(post);
-  });
+  // res.end();
 });
 
 /**

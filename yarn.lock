@@ -130,10 +130,12 @@
   dependencies:
     sparse-bitfield "^3.0.3"
 
-"@nawaaz-dev/portfolio-types@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@nawaaz-dev/portfolio-types/-/portfolio-types-1.0.7.tgz#b3c18b2a4f45de5979ffb9d90b3efa01cb2f9851"
-  integrity sha512-9tJ1rJTV7uL9nQq5Hg3cDfPrrtbwFzo6jXRvJIQmovv9qJ6Pb8pl8pf32X/YSJqgJitKLuSDfwGd37YEmz24qQ==
+"@nawaaz-dev/portfolio-types@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@nawaaz-dev/portfolio-types/-/portfolio-types-1.0.10.tgz#e48e617fbe6d395f6e6425b23a68497b80ae9d78"
+  integrity sha512-YBbpeuaw48rjOs2DuJpn9F8j41Lo08hGNBX8WlKC2BAB/6YZXkBvpy6vyHWJjGonuc++uyOhLSWLvg4TlwIuxw==
+  dependencies:
+    mongoose "^8.10.1"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -739,6 +741,11 @@ bson@^6.10.1:
   version "6.10.2"
   resolved "https://registry.yarnpkg.com/bson/-/bson-6.10.2.tgz#092ba1d2abee7e126320003f88d6883c3b1897df"
   integrity sha512-5afhLTjqDSA3akH56E+/2J6kTDuSIlBxyXPdQslj9hcIgOUE378xdOfZvC/9q3LifJNI6KR/juZ+d0NRNYBwXg==
+
+bson@^6.10.3:
+  version "6.10.3"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-6.10.3.tgz#5f9a463af6b83e264bedd08b236d1356a30eda47"
+  integrity sha512-MTxGsqgYTwfshYWTRdmZRC+M7FnG1b4y7RO7p2k3X24Wq0yv1m77Wsj0BzlPzd/IowgESfsruQCUToa7vbOpPQ==
 
 bytes@3.0.0:
   version "3.0.0"
@@ -1714,6 +1721,15 @@ mongodb@~6.13.0:
     bson "^6.10.1"
     mongodb-connection-string-url "^3.0.0"
 
+mongodb@~6.14.0:
+  version "6.14.2"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-6.14.2.tgz#56533105e62ce795cd10a205a6374ecd8d58ad49"
+  integrity sha512-kMEHNo0F3P6QKDq17zcDuPeaywK/YaJVCEQRzPF3TOM/Bl9MFg64YE5Tu7ifj37qZJMhwU1tl2Ioivws5gRG5Q==
+  dependencies:
+    "@mongodb-js/saslprep" "^1.1.9"
+    bson "^6.10.3"
+    mongodb-connection-string-url "^3.0.0"
+
 mongoose@*, mongoose@^8.8.3:
   version "8.10.1"
   resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.10.1.tgz#ed7e666753203fe7b7a7d4bad415273c47853dde"
@@ -1722,6 +1738,19 @@ mongoose@*, mongoose@^8.8.3:
     bson "^6.10.1"
     kareem "2.6.3"
     mongodb "~6.13.0"
+    mpath "0.9.0"
+    mquery "5.0.0"
+    ms "2.1.3"
+    sift "17.1.3"
+
+mongoose@^8.10.1:
+  version "8.12.2"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.12.2.tgz#9dbc54753b2089069cb6f1fc87777b31a3643193"
+  integrity sha512-tfCyekj0CK4Hw41u78dHCN7fimvvky0oH4QOiHxzcHtjNLosljZVjwlOqFAolIn/sROFLYGheGafqd3h/BzaFA==
+  dependencies:
+    bson "^6.10.3"
+    kareem "2.6.3"
+    mongodb "~6.14.0"
     mpath "0.9.0"
     mquery "5.0.0"
     ms "2.1.3"

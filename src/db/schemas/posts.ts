@@ -25,9 +25,16 @@ const PostSchema = new mongoose.Schema<IPostsModel>(
       enum: ["experience", "tech_stack", "project", "education"],
       required: true,
     },
+    order: {
+      type: Number,
+      required: true,
+    },
     title: { type: String, required: true },
     image: { type: String, required: true }, // Logo or image URL
-    time: { type: String, required: true }, // Different formats per tab
+    time: {
+      start: { type: String, required: true },
+      end: { type: String, required: true },
+    }, // Different formats per tab
 
     // Tab-specific details stored as a nested object
     details: {
